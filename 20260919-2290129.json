@@ -1,0 +1,2709 @@
+{
+  "collection": {
+    "name": "印尼客轮倾覆已致6人遇难 130人失踪",
+    "owner": "郑成功",
+    "generated": "2026-09-19 02:32:49"
+  },
+  "dataSources": [
+    {
+      "key": "ijjkig26",
+      "name": "下周两大重磅事件！A股重回年内低位 机构建议大胆布局",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/981879.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "psusvt61",
+      "name": "特朗普连续3天许诺5000美元分红",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/249320.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "mlbfuf94",
+      "name": "乌克兰经济部长表示 俄罗斯空袭对乌克兰基础设施和固定资产的破坏估计今年达100亿美元",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/319169.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 12
+      }
+    },
+    {
+      "key": "jiuozs81",
+      "name": "近闻·习主席这样阐释金砖合作应有之义",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/286108.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 13
+      }
+    },
+    {
+      "key": "bohlpl17",
+      "name": "中外学者昆明共议本土音乐传承新理论与新实践",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/866498.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "ogtztg82",
+      "name": "直播海报：国务院政策例行吹风会：加强中小企业回款难问题治理有关工作情况",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/155774.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "ajoscs73",
+      "name": "AI“看舌识体质” 安徽亳州校园食堂开启“养生模式”",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/152459.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "rtrlrh29",
+      "name": "服贸会探新：生活里的这些难题，AI帮你来解决！",
+      "driver": "http",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/997296.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "ofyvla79",
+      "name": "奥尔特曼排除OpenAI年内IPO，称AI安全工作尚未完成",
+      "driver": "sqlite",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/230000.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "gneeuz52",
+      "name": "华虹宏力发行1.91亿股代价股份",
+      "driver": "redis",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/519160.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "egxaiw27",
+      "name": "惠誉维持意大利“BBB+”评级 展望稳定",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/361817.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 20
+      }
+    },
+    {
+      "key": "xgdwka99",
+      "name": "2026年中国科研类航空航天模型普及大赛（七台河站）开幕",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/534646.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "apmaqs33",
+      "name": "绿植黄叶，罚款50——星宇股份最狠的不是裁员，是让员工互相开罚单",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/133010.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "ifcyvo00",
+      "name": "海外华商参与服贸会：拓新兴市场 促互联互通",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/883405.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 23
+      }
+    },
+    {
+      "key": "owmtob31",
+      "name": "特朗普敦促美联储降息 表示美国利率应该全球最低",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/033028.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "ujruox54",
+      "name": "iPhone 18 Pro系列多电商平台售罄",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/690592.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 25
+      }
+    },
+    {
+      "key": "rtguae65",
+      "name": "水利部和中国气象局9月12日18时联合发布黄色山洪灾害气象预警",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/239656.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 26
+      }
+    },
+    {
+      "key": "zggtzv46",
+      "name": "哈塞特：白宫认为没有理由加息 但将百分之百支持美联储的决定",
+      "driver": "http",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/962325.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 27
+      }
+    },
+    {
+      "key": "rakume08",
+      "name": "史上最大IPO，英伟达正在洽谈投资100亿美元",
+      "driver": "sqlite",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/430623.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "wrotpl79",
+      "name": "（经济观察）平陆运河通航有望助力海南自贸港与东盟经贸往来",
+      "driver": "redis",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/769355.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 29
+      }
+    },
+    {
+      "key": "ratfvy57",
+      "name": "雷电微力：股东陈发树拟减持不超3%股份",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/980097.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "bwhwry51",
+      "name": "特斯拉Semi卡车将进军欧洲 满载续航最高550公里",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/289356.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "zbkbom28",
+      "name": "胡塞武装锁喉曼德海峡 沙特输油管道多次遇袭 全球能源承压",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/008150.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 12
+      }
+    },
+    {
+      "key": "rcffsr97",
+      "name": "埃里森取消出售至多5000万股甲骨文股票的计划后 在加密平台交易的甲骨文股票合约上涨2%",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/255706.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 13
+      }
+    },
+    {
+      "key": "hlxnhi76",
+      "name": "聚焦产业对接 赣台深耕电子信息装备制造融合",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/340884.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "yhzxnc14",
+      "name": "iPhone 17 Pro迎来史上最低价，你会买吗？",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/221177.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "epkxso93",
+      "name": "椰油胺商品报价动态（2026-09-12）",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/160956.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "oumlhv09",
+      "name": "星宇股份解约107名应届生并非因为上市，实际原因更恶劣",
+      "driver": "http",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/953327.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "niouoz99",
+      "name": "SpaceX在纳斯达克100指数中的权重将获上调",
+      "driver": "sqlite",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/808326.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "bzsvpf62",
+      "name": "宁夏泾源：书香不打烊 农家书屋陪伴少年课余时光",
+      "driver": "redis",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/728689.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "cypvlu10",
+      "name": "IPO或被人为操纵，拨康视云暂停交易",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/942487.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 20
+      }
+    },
+    {
+      "key": "wcvczj08",
+      "name": "欧洲央行行长拉加德：当前价格冲击持续时间将更久",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/952351.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "egwhqk97",
+      "name": "特斯拉预告将于10月1日举办活动 展示下一代Roadster跑车",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/827616.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "gglkng62",
+      "name": "（长征胜利90周年）创新法治育人路径 最高检巡礼活动走进四川芦山",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/746166.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 23
+      }
+    },
+    {
+      "key": "dqnvnu51",
+      "name": "俞敏洪：行走黑土地，于游学中读懂北国山河",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/343281.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "mslzvz84",
+      "name": "“太太口服液”创始人朱保国，一天辞去两家上市药企董事长职位",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/495531.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 25
+      }
+    },
+    {
+      "key": "wtbygk73",
+      "name": "光模块，利好！机构力挺，龙头强势涨停！13只绩优潜力股曝光",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/044644.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 26
+      }
+    },
+    {
+      "key": "nbswgp39",
+      "name": "又一海上咽喉告急！",
+      "driver": "http",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/670782.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 27
+      }
+    },
+    {
+      "key": "jbqoip67",
+      "name": "恺英网络：拟间接参股韩国游戏公司Wemade",
+      "driver": "sqlite",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/556051.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "hirqyu95",
+      "name": "中国香港运动员将首度出战亚运会摔跤项目",
+      "driver": "redis",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/310060.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 29
+      }
+    },
+    {
+      "key": "btopmm05",
+      "name": "工程院院士邬江兴：VLEO超低轨是地球空间最后战略新资源层",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/998104.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "kommdn20",
+      "name": "2026年广州房博会开幕 上百个优质楼盘集中亮相",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/340127.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "vvfyqg67",
+      "name": "曼德海峡局势趋紧 霍尔木兹海峡航运磋商将启 国际油价仍维持高位",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/831345.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 12
+      }
+    },
+    {
+      "key": "xjbkpw48",
+      "name": "OpenAI AI智能体曾攻击RubyGems 涉及利用未知漏洞窃取凭证",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/006562.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 13
+      }
+    },
+    {
+      "key": "dunyvg38",
+      "name": "Kimi、BAI、自然选择谈智能体新商业：AI支付增量来自硅基生命的支付",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/382393.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "vkyojg37",
+      "name": "瓦努阿图一渡轮失事已致1人死亡30余人失踪",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/938985.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "uhwcuo16",
+      "name": "智谱：拟配售新H股并同步发行201.4亿元可换股债券",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/403309.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "duxkor17",
+      "name": "万元折叠手机扎堆上市 手机行业探索技术溢价新路径",
+      "driver": "http",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/342589.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "wggflt93",
+      "name": "这个周末！AI交易，利空突袭",
+      "driver": "sqlite",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/808885.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "jqccbe77",
+      "name": "当物流装上“AI引擎” 如何跑出新速度？",
+      "driver": "redis",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/472697.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "drwhjy01",
+      "name": "（经济观察）中国金融业界稳步推进跨境服务",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/721048.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 20
+      }
+    },
+    {
+      "key": "jxindd53",
+      "name": "阿斯利康的Etcamah在SERENA-4试验中未达到主要无进展生存期终点",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/609059.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "qvxoxg23",
+      "name": "1-羟基-2-萘甲酸商品报价动态（2026-09-12）",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/312614.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "lofbit08",
+      "name": "视频画报｜重温习近平主席在金砖峰会的精彩时刻",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/568949.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 23
+      }
+    },
+    {
+      "key": "zhwabz66",
+      "name": "阿斯利康乳腺癌药物Etcamah三期临床未达主要终点",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/469419.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "khgbdc67",
+      "name": "第二届童声颂英雄图书馆奇妙夜在福州启幕",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/908675.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 25
+      }
+    },
+    {
+      "key": "ghibkt57",
+      "name": "龙版传媒：停牌核查完成，14日开市起复牌",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/005589.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 26
+      }
+    },
+    {
+      "key": "ihszqa52",
+      "name": "2026乌鲁木齐马拉松鸣枪开跑",
+      "driver": "http",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/271563.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 27
+      }
+    },
+    {
+      "key": "mpixmw12",
+      "name": "工业和信息化部总工程师钟志红：加快算力标准体系建设指南编制",
+      "driver": "sqlite",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/431790.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "iozcum71",
+      "name": "（长征胜利90周年）检查公益诉讼守护绿色生态与红色根脉 四川宝兴探索特色保护路径",
+      "driver": "redis",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/442816.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 29
+      }
+    },
+    {
+      "key": "oznlcq52",
+      "name": "“AI股神”杀回来了：重建此前“爆仓仓位”，但降低杠杆",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/320806.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "weewrc62",
+      "name": "沙特阿拉伯在多次遭袭后关闭东西向原油管道",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/848207.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "gqshol78",
+      "name": "一波未平一波又起，星宇股份实在是“错得离谱”",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/093136.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 12
+      }
+    },
+    {
+      "key": "wwqbam02",
+      "name": "多国好物跨越疆界 服贸会联通中外互惠共享",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/038029.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 13
+      }
+    },
+    {
+      "key": "ttbrnl82",
+      "name": "密集召开多场会议！超20万亿元投向这里",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/301145.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "rxraco60",
+      "name": "提前开栓 我国最北城市进入供暖季",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/394666.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "neytfj54",
+      "name": "玉米油商品报价动态（2026-09-12）",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/620356.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "atbfbj43",
+      "name": "“宴飨万年——数说中国古代饮食文化”展览在巴黎揭幕",
+      "driver": "http",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/305563.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "vdltxq54",
+      "name": "欧洲央行高级官员：高油价可能迫使央行进一步加息",
+      "driver": "sqlite",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/012014.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "cvprty41",
+      "name": "中炬高新：累计回购2.63%公司股份 耗资3.80亿元",
+      "driver": "redis",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/296222.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "opwtmt58",
+      "name": "厄尔尼诺扰动供给 农产品期货价格升温",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/641683.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 20
+      }
+    },
+    {
+      "key": "oaeneg00",
+      "name": "冯骥才文学与文化遗产保护国际学术研讨会在天津大学召开 系列新书首发",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/141383.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "lzuqyz63",
+      "name": "金砖国家领导人参观金砖成立20周年图片展、共同植树并集体合影",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/783181.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "udngnv02",
+      "name": "海南全省消防救援队伍进入二级响应 全力应对强降雨",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/863518.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 23
+      }
+    },
+    {
+      "key": "xyhwut04",
+      "name": "富时A50期指连续夜盘收涨0.03%",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/094608.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "yedjof72",
+      "name": "中国353种期刊入选2025年度世界一流科技期刊目录",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/927179.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 25
+      }
+    },
+    {
+      "key": "lmpotu20",
+      "name": "乌克兰经济部长表示 乌克兰海港遭到破坏和封锁的经济成本约占今年国内生产总值的1.5个百分点",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/397372.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 26
+      }
+    },
+    {
+      "key": "iummjw52",
+      "name": "星宇股份财报接连被纠错：半年报扣非加权平均净资产收益率也被质疑",
+      "driver": "http",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/982067.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 27
+      }
+    },
+    {
+      "key": "qzlmok20",
+      "name": "（活力中国调研行）河南安阳：游客走进殷墟博物馆感受商文明",
+      "driver": "sqlite",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/613345.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "iudhne69",
+      "name": "中国代表团参加联合国粮农组织渔业委员会第37届会议",
+      "driver": "redis",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/633649.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 29
+      }
+    },
+    {
+      "key": "vesrfa71",
+      "name": "核聚变路线之争胜负未定，上海为何全线押注",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/049389.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "yqylct68",
+      "name": "“两园一河”京西漂流节联动三区",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/930546.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "dxdaav13",
+      "name": "《2026中国餐饮业年度报告》发布",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/478037.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 12
+      }
+    },
+    {
+      "key": "lkazdo20",
+      "name": "警惕“躺赚”陷阱！征信良好的普通人为何沦为“职业背债人”",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/260533.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 13
+      }
+    },
+    {
+      "key": "grmiwo73",
+      "name": "中国人民对外友好协会会长杨万明访问英国、挪威",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/958871.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "mghniw25",
+      "name": "刚果（金）埃博拉疫情累计确诊病例超6900例",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/916822.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "xlrsck84",
+      "name": "千余专家学者齐聚哈尔滨 共研动力装备关键技术",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/337071.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "trbreb94",
+      "name": "中信建投：军工板块盈利加速修复 静候“十五五”规模化订单下达",
+      "driver": "http",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/999718.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "dwmhfd07",
+      "name": "下周，两大重磅事件！A股重回年内低位，机构建议大胆布局",
+      "driver": "sqlite",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/161467.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "syzuxj32",
+      "name": "面临美日收益率上涨 贝森特陷入两线苦战",
+      "driver": "redis",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/492995.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "iwuizi68",
+      "name": "华尔街多家银行争抢Anthropic员工财富管理业务",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/567746.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 20
+      }
+    },
+    {
+      "key": "htrivw99",
+      "name": "跨越国界的烟火气：印度小伙在华实现“美味”职业新生涯",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/311454.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "azqqlc96",
+      "name": "周末，大反转！利空突袭，SK海力士、美光、闪迪，集体大跌",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/680447.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "efdtgn02",
+      "name": "这样熬夜真会“要命”！身体出现这些情况，建议立即就医→",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/705058.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 23
+      }
+    },
+    {
+      "key": "yyqmmz18",
+      "name": "常润股份：截至9月11日公司累计回购股份591020股",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/203628.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "kqaqdx59",
+      "name": "十件侨选“广州礼物”亮相广州中秋侨宴",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/982606.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 25
+      }
+    },
+    {
+      "key": "dnmzmk59",
+      "name": "秦岭小村里的台湾主厨：以山野烟火融合两岸“味蕾”精华",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/960343.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 26
+      }
+    },
+    {
+      "key": "odbgak75",
+      "name": "首批普惠算力赋能中小企业发展服务清单发布",
+      "driver": "http",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/698797.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 27
+      }
+    },
+    {
+      "key": "oluxjs22",
+      "name": "南海热带扰动将发展为热带低压 海南岛等地雨势较强",
+      "driver": "sqlite",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/262046.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "vrhyxo58",
+      "name": "欧洲央行官员科赫尔：高油价可能迫使欧央行进一步加息",
+      "driver": "redis",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/073284.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 29
+      }
+    },
+    {
+      "key": "fvrgti45",
+      "name": "美国总统特朗普谈5000美元分红表示 说话算话",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/525639.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "dmezcn94",
+      "name": "美联储，加息大消息！高盛、小摩，重大转变！",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/517253.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "trwsuj97",
+      "name": "中信建投：加息“靴子”将落地 A股或迎反攻行情",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/019277.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 12
+      }
+    },
+    {
+      "key": "ogtika57",
+      "name": "白宫经济顾问哈塞特：特朗普认为没有理由加息",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/397966.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 13
+      }
+    },
+    {
+      "key": "liyvon39",
+      "name": "“跨越山海的味道——万里茶道与咖啡之路”巡展登陆圣保罗",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/158754.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "dkwhsw98",
+      "name": "“琮谱——良渚遗址发现九十周年特展”在浙江杭州启幕",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/898213.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "vscgax71",
+      "name": "2026第十四届环太湖国际公路自行车赛启幕",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/416743.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "yoxbwy47",
+      "name": "女篮世界杯：法国队、美国队晋级决赛",
+      "driver": "http",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/349681.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "qrmtdt67",
+      "name": "人民论坛网评 | 以青春担当回应时代召唤",
+      "driver": "sqlite",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/556381.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "zjppmw18",
+      "name": "美股资金出逃创年内新高！美联储加息箭在弦上，市场怎么走？",
+      "driver": "redis",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/098932.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "gyhzog37",
+      "name": "今年前8月河北对其他金砖国家成员国进出口1403.3亿元",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/541920.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 20
+      }
+    },
+    {
+      "key": "zdxdmo78",
+      "name": "习言道｜开启金砖合作第三个“金色十年”",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/328432.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "xixdpd67",
+      "name": "2026中国—东盟（南宁）城市媒体圆桌会举办",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/690409.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "ltttef63",
+      "name": "宁夏银川市第十四届广场舞大赛收官",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/074501.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 23
+      }
+    },
+    {
+      "key": "jruujp97",
+      "name": "重庆渝富控股集团有限公司原党委书记、董事长谢文辉涉嫌严重违纪违法接受审查调查",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/188374.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "jtaxpu60",
+      "name": "纳斯达克中国金龙指数收涨0.4%",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/001521.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 25
+      }
+    },
+    {
+      "key": "oidyib63",
+      "name": "习近平将出席金砖国家领导人迎接仪式",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/920421.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 26
+      }
+    },
+    {
+      "key": "mvsnfk01",
+      "name": "OpenAI的CEO Sam Altman称他同意Anthropic CEO达里奥关于需要控制前沿模型发展步伐的观点",
+      "driver": "http",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/396845.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 27
+      }
+    },
+    {
+      "key": "trizos14",
+      "name": "20%涨停效应显现？公募调研医药挖出这三家双创标的",
+      "driver": "sqlite",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/795404.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "hfzzrw03",
+      "name": "央企旗下造船巨头启动A股IPO辅导 去年营收近500亿",
+      "driver": "redis",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/335388.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 29
+      }
+    },
+    {
+      "key": "mqaevk67",
+      "name": "光博会热度传导到A股 机构密集调研三大龙头",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/000142.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "ddwsdi80",
+      "name": "水利部针对海南启动洪水防御Ⅳ级应急响应",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/841553.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "gyqait24",
+      "name": "中东局势，突传大消息",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/361297.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 12
+      }
+    },
+    {
+      "key": "keyvqi37",
+      "name": "媒体记者关注金砖国家领导人第十八次会晤",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/857891.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 13
+      }
+    },
+    {
+      "key": "xulqyz49",
+      "name": "雄安国际算力一体化调度中心启动运行",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/792263.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "jwyjdm58",
+      "name": "“苏超”八强之争进入白热化 南京主场力克镇江",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/718671.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "pwuyff30",
+      "name": "航行警告：南海海域军事训练",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/228333.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "kfnjdd04",
+      "name": "永茂泰：截至9月11日公司累计回购股份3301800股",
+      "driver": "http",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/076116.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "uwdeui19",
+      "name": "江西南昌：“星河万里”无人机点亮赣江夜空",
+      "driver": "sqlite",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/463276.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "nusncp26",
+      "name": "2026浦江创新论坛开幕 长三角基础研究联合基金重大专项正式启动",
+      "driver": "redis",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/141124.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "pczgnz50",
+      "name": "星宇股份年报写出2.44万亿外包费：一个“万”字，差了多远？",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/406025.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 20
+      }
+    },
+    {
+      "key": "jtykpx08",
+      "name": "5天3板超声电子： “超声电子高频板通过英伟达认证”情况不属实 目前无产品供货给英伟达",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/950460.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "kqreem03",
+      "name": "沙特阿拉伯输油管道系统周四遭袭击",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/901193.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "epijkv32",
+      "name": "纽约尾盘 现货黄金涨0.68%",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/603829.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 23
+      }
+    },
+    {
+      "key": "dxglwy34",
+      "name": "人这一辈子，一定要去一趟廊坊！",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/875464.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "sgxbrr03",
+      "name": "长城通用服务器中标国家电网数字化集采服务器项目",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/395268.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 25
+      }
+    },
+    {
+      "key": "jnsjzf93",
+      "name": "孩子为什么会有出生缺陷？做好预防很关键",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/646875.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 26
+      }
+    },
+    {
+      "key": "aaqvwp22",
+      "name": "“玉润山海·闽疆同行”玛纳斯碧玉产业推介活动在湄洲岛举行",
+      "driver": "http",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/763213.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 27
+      }
+    },
+    {
+      "key": "clecqe94",
+      "name": "奥佳华：汽车智能座舱按摩舒适系统研发项目已进入专利申请、样机测试、车型适配阶段",
+      "driver": "sqlite",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/995576.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "dhoqyt95",
+      "name": "“央行超级周”来袭，A股怎么走",
+      "driver": "redis",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/409400.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 29
+      }
+    },
+    {
+      "key": "dchvgr06",
+      "name": "东西问丨风靡中国的印度飞饼，为何印度找不到",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/551873.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "tvpxyx95",
+      "name": "博茨瓦纳矿业与能源部长：中博矿业合作要从“挖矿”走向产业增值",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/649783.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "smmuqx83",
+      "name": "国家认监委责令中汽认证中心有限公司停业整顿1个月",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/812015.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 12
+      }
+    },
+    {
+      "key": "idbrwu80",
+      "name": "从备孕到产后：科学营养如何守护生命早期健康？",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/807893.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 13
+      }
+    },
+    {
+      "key": "upztou85",
+      "name": "两大AI巨头同日发出“减速”信号，OpenAI明确今年不上市",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/568732.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "cruuzc14",
+      "name": "当“科漂”遇见江淮，一场关于未来的双向奔赴",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/183864.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "cgjdgo83",
+      "name": "第九届全国业余围棋大赛（南部赛区）在广西南宁落子",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/648413.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "vikdpl54",
+      "name": "中炬高新：截至9月11日公司累计回购股份2033.63万股",
+      "driver": "http",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/313723.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "trotbc16",
+      "name": "习近平宣布中国将于明年接任金砖主席国",
+      "driver": "sqlite",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/992993.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "wdnpxm55",
+      "name": "QDII产品溢价频现 基金公司密集提示风险",
+      "driver": "redis",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/922195.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "euajyd08",
+      "name": "沙特称该国输油管道遭袭致人员受伤和设施受损",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/820582.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "ygvbsx70",
+      "name": "美网综合：莱巴金娜女单夺冠 中国选手孙心然获青少年女单冠军",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/263362.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 26
+      }
+    },
+    {
+      "key": "ykmmte81",
+      "name": "天龙三号官宣“归零” 天兵科技：行业机会窗口仍在 不会为保成功降低火箭性能",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/922381.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 12
+      }
+    },
+    {
+      "key": "rkkejl67",
+      "name": "“麦积山雕塑论坛·2026”探索构建中国雕塑自主知识体系",
+      "driver": "redis",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/730494.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "elzggi48",
+      "name": "中央组织部会同有关部委修订印发“5个办法” 进一步加强行业事业单位领导人员管理",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/004455.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "wftuxa92",
+      "name": "习言道｜“强权即公理”的逻辑行不通、早就应该摒弃",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/918206.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "zoywzd34",
+      "name": "胡塞武装称使用大量弹道导弹和无人机打击沙特军事设施",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/580829.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "ugbysr54",
+      "name": "“减肥神药”获批国内脂肪肝适应症后 GLP-1还有哪些潜能？",
+      "driver": "http",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/541480.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "ysmnwz13",
+      "name": "宁夏兴庆“零重力飞机工业杯”汽车越野场地赛鸣枪开赛",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/040990.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "ajtzjm27",
+      "name": "美国家庭净资产二季度增加12.8万亿美元 创历史新高",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/229988.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "qcevuv63",
+      "name": "据洲际交易所 截至9月8日当周 柴油投机者净多头头寸增加3465手",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/613708.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "ylyqww09",
+      "name": "京雄快线开启全线贯通试运行",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/363315.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "sflsth29",
+      "name": "纽约汇市：美元持稳 此前美国CPI公布后一度触及日内高点",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/659087.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "dflqjh11",
+      "name": "汉港控股获主席及主要股东汪林冰增持768.4万股",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/766798.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "edyxfp85",
+      "name": "特朗普称伊朗支持的胡塞武装请求美国不要下场",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/826062.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "fwugru88",
+      "name": "“炒股”回本！爆仓漫画家苦熬18年 他做对了什么？",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/191653.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "naonsb49",
+      "name": "9月12日美股收盘：三大指数集体上涨，油价回落，美联储下周加息押注升至87%",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/233154.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "pojqce63",
+      "name": "特朗普：胡塞武装致电美方称“不愿与美国冲突”",
+      "driver": "redis",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/031626.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "dbonvd44",
+      "name": "2只PCB大牛股澄清供货英伟达传闻",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/585840.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "gaytxy78",
+      "name": "聚焦智能科创新能源 台湾青年参访团在渝深入考察交流",
+      "driver": "redis",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/041266.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "bsssma66",
+      "name": "云南新世纪滇池国际文化旅游会展置地有限公司原总经理石坤接受监察调查",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/169993.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "djzajb63",
+      "name": "交银国际：中金公司目标价上调至28.5港元 维持“买入”评级",
+      "driver": "redis",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/804186.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "gbyxhh57",
+      "name": "美以伊局势：特朗普指认伊朗或主导空袭沙特油管 伊朗南部传出爆炸声，伊曾试图用弹道导弹袭击美军军舰",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/486049.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "tmxoeh08",
+      "name": "2026年广东省科普讲解大赛总决赛收官",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/948068.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "iuxiqc84",
+      "name": "实验室“开门” 大装置“破壁” 合肥科学岛迎来公众探访",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/236821.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 27
+      }
+    },
+    {
+      "key": "seutmf35",
+      "name": "上海概念验证平台联盟成立",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/209902.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 13
+      }
+    },
+    {
+      "key": "gcblrh72",
+      "name": "胜利证券(08540)拟配股融资6001万",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/033306.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "mujrkd37",
+      "name": "印度商人尼罗斯：我也曾是“来中国试一下”的年轻人",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/061684.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 13
+      }
+    },
+    {
+      "key": "mhzizi79",
+      "name": "河南公布首批2026年治理制售假劣肉制品问题典型案例",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/622630.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "wvvjua09",
+      "name": "中国最有钱的几大公司，突然拼命借钱：阿里配股，腾讯发债，字节贷款296亿美元",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/148433.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "clhhch26",
+      "name": "京津冀智算供需清单发布 三地将加快构建环京算力供给走廊",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/023795.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "mbzrph10",
+      "name": "央企上市公司际华集团，通过融资性贸易等虚增营收96.6亿，3任董事长、3任总经理等13名相关责任人员被罚！",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/266183.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "kpzcvv81",
+      "name": "欧洲央行加息25基点符合预期，预计10月或再加息",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/838526.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "llxpol44",
+      "name": "儒竞科技：每10股派0.5元，股权登记日为9月17日",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/879269.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "yrowio63",
+      "name": "秦淮河上挥桨逐浪 海内外高校赛艇健儿南京竞速",
+      "driver": "sqlite",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/103894.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 13
+      }
+    },
+    {
+      "key": "pbpfnz50",
+      "name": "官方通报菏泽古沉船考古疑似文物遗失：已组建联合调查组",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/670370.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "mnqvhc02",
+      "name": "（乡村行·看振兴）泥土里的“乡愁课堂”",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/834106.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "djapgv65",
+      "name": "加息25个基点？美联储重磅来袭！高盛最新研判",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/614165.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "johmzb25",
+      "name": "美股三大指数集体收涨 戴尔科技大涨11%",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/787605.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "ycjjbt23",
+      "name": "全国超级稻30年带动水稻单产提升",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/571385.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "exaffs87",
+      "name": "康宁美股盘后下跌3%",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/529819.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "hpjchb28",
+      "name": "“大金砖合作”凝聚力量，全球南方共谋发展",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/965377.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "iauuzj29",
+      "name": "下一个中际旭创！业绩狂飙，产品极紧缺，确定性受益的AI基建龙头",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/970941.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "iaiwii84",
+      "name": "“丝路书香·四海传福”图书巡回展亮相马尼拉国际书展",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/081888.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "mpqcbn17",
+      "name": "台湾青年媒体人感知重庆魅力共话“交流”",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/288773.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "aehemy41",
+      "name": "宁夏首次线上发放毕业生一次性求职补贴",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/238736.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 20
+      }
+    },
+    {
+      "key": "djlsyi28",
+      "name": "三一重工：首次回购股份62.39万股 交易总金额1230.87万元",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/902269.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "zoiblk07",
+      "name": "探访中国“两弹城”景区",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/907424.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 23
+      }
+    },
+    {
+      "key": "lcrize62",
+      "name": "中国将对塞舌尔实施100%税目产品零关税",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/317160.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "prrjnk74",
+      "name": "北京立法促进民族团结进步 以首善标准建设示范城市",
+      "driver": "http",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/826657.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 27
+      }
+    },
+    {
+      "key": "ttljul36",
+      "name": "见证历史！首家2万亿代销巨头诞生",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/179406.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "rotqvm45",
+      "name": "制茶能手齐聚黄山 比拼茶叶精制加工技艺",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/602337.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "qirigu54",
+      "name": "一组海报带你看“金砖”",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/135651.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "pabuwo92",
+      "name": "金安国纪：连续2个交易日收盘价涨幅偏离值累超20%",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/300467.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "yswotd25",
+      "name": "菲华中学生交流日在马尼拉举行 近60名学子体验中华文化",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/496612.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "eqhglp88",
+      "name": "加拿大称与美国尚无贸易谈判安排",
+      "driver": "http",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/873011.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 12
+      }
+    },
+    {
+      "key": "yplotm67",
+      "name": "中深装集团突发讣告：常务副总裁王武烈病逝，终年45岁",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/288836.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "tbrxrf17",
+      "name": "乙酰丙酮铝商品报价动态（2026-09-13）",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/488677.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "pxqdhz18",
+      "name": "全球首秀落地成都 WDSF世界霹雳舞3V3混合团体锦标赛开赛",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/476598.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 27
+      }
+    },
+    {
+      "key": "flpdqo79",
+      "name": "南部六省（区）生态环境执法协作座谈会在粤举行",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/275970.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "ulbwfq40",
+      "name": "中吉乌专家在“丝路重镇”兰州探AI赋能中亚教育",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/338722.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "pqdkee30",
+      "name": "百家号App将更名“百度直播伴侣”",
+      "driver": "http",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/937335.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "awhnbw80",
+      "name": "2026年曲棍球青年亚洲杯赛：印度队摘得男女组双冠",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/379240.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "mvrvfv92",
+      "name": "与谷歌合作智能家居项目是否涵盖AI眼镜相关产品？创维数字回应",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/625683.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "kuvgxb58",
+      "name": "欲冲击IPO！造船巨头启动上市辅导",
+      "driver": "sqlite",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/040438.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "bwlpyc53",
+      "name": "南非向博茨瓦纳捐赠20头黑犀牛 助力种群拓展栖息地",
+      "driver": "redis",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/882366.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 29
+      }
+    },
+    {
+      "key": "cmdkon79",
+      "name": "马斯克表示 Anthropic CEO达里奥关于放慢人工智能模型发展速度的呼吁是正确的",
+      "driver": "sqlite",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/427726.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 23
+      }
+    },
+    {
+      "key": "cmryad60",
+      "name": "汇兑“阵痛”拖累业绩 工程机械行业分化加剧 下半年盈利拐点渐近",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/328472.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "auehlb38",
+      "name": "印尼失联客轮事故位置确认 海浪超2米给救援带来困难",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/129908.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "huoees83",
+      "name": "中国泾河博物馆落地泾源",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/181023.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "tzfuwz90",
+      "name": "中新健康丨预防脑出血：8个症状要留意，6个习惯赶紧改",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/285296.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "mdzarx02",
+      "name": "大学生活费怎么给？谈“钱”之前，先谈“生活”",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/444726.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 26
+      }
+    },
+    {
+      "key": "jnbjru25",
+      "name": "（活力中国）联结与互鉴：河南殷墟博物馆探索国际交流新空间",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/708094.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "miyylw43",
+      "name": "AI网球机器人全球爆单",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/137268.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "kbdilb55",
+      "name": "AI赋能新赛道 激活产业新动能",
+      "driver": "sqlite",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/360955.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 13
+      }
+    },
+    {
+      "key": "rjbcqx92",
+      "name": "最高跌30，废钢13家下跌！（9.13）",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/128495.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "llqoop46",
+      "name": "视频|星宇股份又出错，近期已道歉4次 股价下跌！上交所发函！网友:真是一个神奇的草台班子",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/115126.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "ugbunu82",
+      "name": "上海科技成果转化系列贷款产品发布",
+      "driver": "http",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/187207.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "jsucbu95",
+      "name": "麦芽糊精商品报价动态（2026-09-13）",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/086358.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "abufxo85",
+      "name": "中新网评宁大校长雨中三句话致辞：比仪式更重要的是体谅",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/651061.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "uhaisq31",
+      "name": "据洲际交易所 截至9月8日的当周 布伦特原油投机者的净多头头寸增加4,318份合约",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/162652.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 29
+      }
+    },
+    {
+      "key": "rdyiku49",
+      "name": "染料涨价潮延续 “金九银十”再添一把火",
+      "driver": "redis",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/027530.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "fzutoc07",
+      "name": "中国波顿于9月11日斥资295.36万港元回购94.4万股",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/402758.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "bmyczd09",
+      "name": "新华图讯｜习近平会见印度总理莫迪",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/163234.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "wpruwx41",
+      "name": "“1+N+X”！私募业，监管规则密集落地！深度解读来了",
+      "driver": "sqlite",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/719966.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "drcnib04",
+      "name": "资本大佬陈发树要减持，对应市值超2亿元",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/687671.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "banpyo73",
+      "name": "4次道歉后又出错，神奇的星宇财报刷爆网络",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/928562.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "cihggy15",
+      "name": "浦江创新论坛首个非洲主宾国南非冀多领域技术合作",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/786699.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "zdilmg42",
+      "name": "东鹏饮料获董事长林木勤三日增持5.79万股 耗资约594.03万港元",
+      "driver": "mysql",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/370229.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "wkfbru38",
+      "name": "你恐慌我贪婪！这个板块正被机构疯抢 7月以来资金借道ETF狂买逾800亿元",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/462272.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "ggebpb21",
+      "name": "东西问丨徐飞彪：20年再出发，“大金砖”如何照亮全球南方？",
+      "driver": "sqlite",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/353156.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "fyasju48",
+      "name": "德企在华薪资报告：哪些行业涨钱快？",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/879171.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 25
+      }
+    },
+    {
+      "key": "rrinqs23",
+      "name": "绥芬河口岸深耕“双买双卖”做强跨境贸易新业态",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/803699.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "zkdjzq18",
+      "name": "从“搬家式”到轻量化 中国北方露营渐成“周末日常”",
+      "driver": "redis",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/988863.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "zwxcgv45",
+      "name": "美联储一旦开启加息周期，“连加3次”是合理预期？",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/149795.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "ysamml75",
+      "name": "蒸馏之争 争的是智能时代的发展权｜专家热评",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/136030.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "xjhnuo91",
+      "name": "印度监管机构针对尾盘竞价波动提出改革方案",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/670293.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "anxeee81",
+      "name": "“一起健康”主题活动亮相京港地铁 通勤路化身健康“充电站”",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/361505.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "mcmypp51",
+      "name": "印尼客轮失联事故已致6死 仍有上百人失踪",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/185010.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "sdjjah73",
+      "name": "南航将正式复航广州-新德里直飞航线",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/433662.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "cpnhro89",
+      "name": "习近平出席金砖国家领导人第十八次会晤第一阶段会议",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/452166.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "ppllyw30",
+      "name": "据俄罗斯统计局 俄罗斯8月CPI同比上涨6.33%",
+      "driver": "http",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/438482.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "fyahsb11",
+      "name": "金风科技获贝莱德增持37.64万股 每股作价约9.17港元",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/942715.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "iqfqpd96",
+      "name": "陈茂波：香港与共建“一带一路”地区合作走向机制化",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/914249.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "pqbroh76",
+      "name": "乌克兰军方称袭击了俄罗斯克拉斯诺达尔地区的一座炼油厂",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/088906.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "lmrxgx47",
+      "name": "法国2026年经济增长预期下调至0.5%",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/598835.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "dgygjp44",
+      "name": "佩斯科夫：俄美乌或在近期举行三方会晤",
+      "driver": "sqlite",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/088311.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "aepebr79",
+      "name": "光通信产业现状：1.6T光模块加速上量 全产业链企业“跑步入场”",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/521823.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "jpryxg31",
+      "name": "上海市概念验证平台联盟发布",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/737198.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "namatp37",
+      "name": "摩根大通在遭受损失后暂停Situation Awareness相关贷款业务",
+      "driver": "mysql",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/474884.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 25
+      }
+    },
+    {
+      "key": "wvcsrx37",
+      "name": "凯莱英获南方基金增持2.5万股 每股作价约140.25港元",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/781042.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "jyhjvo29",
+      "name": "尚品宅配：拟出售不超2%已回购股份",
+      "driver": "http",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/360477.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 12
+      }
+    },
+    {
+      "key": "brisau22",
+      "name": "从海上“智慧大脑”到传统工艺 国际航标业者探寻工匠精神",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/835895.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "nzhits50",
+      "name": "河南公布一批粉尘涉爆举报案例 多家企业在危险场所内设办公室",
+      "driver": "sqlite",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/082596.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "bswsnz63",
+      "name": "2026年重庆市全国科普月主场活动举行",
+      "driver": "postgres",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/518542.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "tsdhoc34",
+      "name": "中国银行启动“一网三融”算力金融生态共建行动 为算力产业链提供不少于3000亿元综合金融支持",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/899159.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 26
+      }
+    },
+    {
+      "key": "acydww71",
+      "name": "印尼失联客轮已有约110人获救",
+      "driver": "redis",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/724164.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "qujqnm50",
+      "name": "中医药守正创新促发展大会在澳门举行 探索传承创新路径",
+      "driver": "postgres",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/444467.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "jgxyfm32",
+      "name": "雅戈尔：每股派现0.20元，股权登记日为9月17日",
+      "driver": "http",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/208891.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 12
+      }
+    },
+    {
+      "key": "qxpytp33",
+      "name": "周六你需要知道的隔夜全球要闻：交易员预计下周美联储加息概率约为90%；伊朗称14日将在阿曼讨论霍尔木兹海峡商运航线；国际原油下跌",
+      "driver": "redis",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/088984.shtml </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    }
+  ]
+}
