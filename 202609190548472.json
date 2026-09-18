@@ -1,0 +1,1810 @@
+{
+  "mirror": {
+    "name": "绿植黄叶，罚款50——星宇股份最狠的不是裁员，是让员工互相开罚单",
+    "generated": "2026-09-19 02:33:32",
+    "strategy": "latency"
+  },
+  "fallback": true,
+  "nodes": {
+    "mirror-001": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/667762.shtml </code>",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-002": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/515253.shtml </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-003": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/837191.shtml </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-004": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/388895.shtml </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-005": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/244566.shtml </code>",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-006": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/410036.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-007": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/934122.shtml </code>",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-008": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/549908.shtml </code>",
+      "scheme": "https",
+      "weight": 2
+    },
+    "mirror-009": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/867523.shtml </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-010": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/527590.shtml </code>",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-011": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/452977.shtml </code>",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-012": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/650603.shtml </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-013": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/276838.shtml </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-014": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/902354.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-015": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/803013.shtml </code>",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-016": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/989447.shtml </code>",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-017": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/578265.shtml </code>",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-018": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/665882.shtml </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-019": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/413035.shtml </code>",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-020": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/481133.shtml </code>",
+      "scheme": "https",
+      "weight": 2
+    },
+    "mirror-021": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/641806.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-022": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/664237.shtml </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-023": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/646664.shtml </code>",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-024": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/938035.shtml </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-025": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/549466.shtml </code>",
+      "scheme": "http",
+      "weight": 7
+    },
+    "mirror-026": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/883934.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-027": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/149511.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-028": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/654876.shtml </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-029": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/754844.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-030": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/660444.shtml </code>",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-031": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/111820.shtml </code>",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-032": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/400475.shtml </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-033": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/370953.shtml </code>",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-034": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/147766.shtml </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-035": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/568438.shtml </code>",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-036": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/136687.shtml </code>",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-037": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/519529.shtml </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-038": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/416151.shtml </code>",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-039": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/392408.shtml </code>",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-040": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/640648.shtml </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-041": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/902130.shtml </code>",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-042": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/755108.shtml </code>",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-043": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/655416.shtml </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-044": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/825402.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-045": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/309358.shtml </code>",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-046": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/680666.shtml </code>",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-047": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/052491.shtml </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-048": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/899957.shtml </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-049": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/796335.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-050": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/151603.shtml </code>",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-051": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/441395.shtml </code>",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-052": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/518048.shtml </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-053": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/420650.shtml </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-054": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/501721.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-055": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/430184.shtml </code>",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-056": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/609175.shtml </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-057": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/529547.shtml </code>",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-058": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/563860.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-059": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/800119.shtml </code>",
+      "scheme": "https",
+      "weight": 2
+    },
+    "mirror-060": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/955690.shtml </code>",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-061": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/848857.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-062": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/177768.shtml </code>",
+      "scheme": "http",
+      "weight": 5
+    },
+    "mirror-063": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/557279.shtml </code>",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-064": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/900959.shtml </code>",
+      "scheme": "https",
+      "weight": 18
+    },
+    "mirror-065": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/219438.shtml </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-066": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/071374.shtml </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-067": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/451666.shtml </code>",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-068": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/306838.shtml </code>",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-069": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/308652.shtml </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-070": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/726145.shtml </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-071": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/771236.shtml </code>",
+      "scheme": "http",
+      "weight": 5
+    },
+    "mirror-072": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/233620.shtml </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-073": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/107065.shtml </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-074": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/805234.shtml </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-075": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/670349.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-076": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/739112.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-077": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/221418.shtml </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-078": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/033635.shtml </code>",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-079": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/836241.shtml </code>",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-080": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/210854.shtml </code>",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-081": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/154453.shtml </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-082": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/629049.shtml </code>",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-083": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/663476.shtml </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-084": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/057405.shtml </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-085": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/189096.shtml </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-086": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/100365.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-087": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/854844.shtml </code>",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-088": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/759298.shtml </code>",
+      "scheme": "http",
+      "weight": 5
+    },
+    "mirror-089": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/769200.shtml </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-090": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/009890.shtml </code>",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-091": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/125975.shtml </code>",
+      "scheme": "https",
+      "weight": 11
+    },
+    "mirror-092": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/584720.shtml </code>",
+      "scheme": "https",
+      "weight": 13
+    },
+    "mirror-093": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/924044.shtml </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-094": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/855141.shtml </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-095": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/729088.shtml </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-096": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/473109.shtml </code>",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-097": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/576377.shtml </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-098": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/697608.shtml </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-099": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/404570.shtml </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-100": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/742835.shtml </code>",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-101": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/366267.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-102": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/450365.shtml </code>",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-103": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/374597.shtml </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-104": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/453775.shtml </code>",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-105": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/497742.shtml </code>",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-106": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/583103.shtml </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-107": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/694294.shtml </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-108": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/790359.shtml </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-109": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/484551.shtml </code>",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-110": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/413954.shtml </code>",
+      "scheme": "https",
+      "weight": 13
+    },
+    "mirror-111": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/032351.shtml </code>",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-112": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/411559.shtml </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-113": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/856775.shtml </code>",
+      "scheme": "https",
+      "weight": 11
+    },
+    "mirror-114": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/507231.shtml </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-115": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/001052.shtml </code>",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-116": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/823670.shtml </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-117": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/566485.shtml </code>",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-118": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/323352.shtml </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-119": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/067554.shtml </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-120": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/654260.shtml </code>",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-121": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/128474.shtml </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-122": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/377644.shtml </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-123": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/513414.shtml </code>",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-124": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/611716.shtml </code>",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-125": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/313647.shtml </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-126": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/879166.shtml </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-127": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/028538.shtml </code>",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-128": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/401275.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-129": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/666576.shtml </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-130": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/189953.shtml </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-131": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/584943.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-132": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/708514.shtml </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-133": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/137980.shtml </code>",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-134": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/523692.shtml </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-135": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/688442.shtml </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-136": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/266836.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-137": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/741545.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-138": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/563964.shtml </code>",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-139": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/159632.shtml </code>",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-140": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/356263.shtml </code>",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-141": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/314556.shtml </code>",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-142": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/607770.shtml </code>",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-143": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/662377.shtml </code>",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-144": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/980488.shtml </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-145": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/029458.shtml </code>",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-146": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/151925.shtml </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-147": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/744032.shtml </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-148": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/233782.shtml </code>",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-149": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/875623.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-150": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/497530.shtml </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-151": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/146313.shtml </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-152": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/132797.shtml </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-153": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/539092.shtml </code>",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-154": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/010321.shtml </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-155": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/133521.shtml </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-156": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/548261.shtml </code>",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-157": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/957980.shtml </code>",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-158": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/124989.shtml </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-159": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/333975.shtml </code>",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-160": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/260391.shtml </code>",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-161": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/116860.shtml </code>",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-162": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/829403.shtml </code>",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-163": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/856855.shtml </code>",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-164": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/491908.shtml </code>",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-165": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/627491.shtml </code>",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-166": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/457807.shtml </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-167": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/565095.shtml </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-168": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/334045.shtml </code>",
+      "scheme": "https",
+      "weight": 18
+    },
+    "mirror-169": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/905130.shtml </code>",
+      "scheme": "https",
+      "weight": 2
+    },
+    "mirror-170": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/009462.shtml </code>",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-171": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/520411.shtml </code>",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-172": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/029826.shtml </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-173": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/396572.shtml </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-174": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/566698.shtml </code>",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-175": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/680482.shtml </code>",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-176": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/822035.shtml </code>",
+      "scheme": "https",
+      "weight": 6
+    },
+    "mirror-177": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/311724.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-178": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/698382.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-179": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/169309.shtml </code>",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-180": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/915764.shtml </code>",
+      "scheme": "http",
+      "weight": 7
+    },
+    "mirror-181": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/906770.shtml </code>",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-182": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/972183.shtml </code>",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-183": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/490664.shtml </code>",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-184": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/205119.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-185": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/805608.shtml </code>",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-186": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/380251.shtml </code>",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-187": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/020517.shtml </code>",
+      "scheme": "https",
+      "weight": 6
+    },
+    "mirror-188": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/612373.shtml </code>",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-189": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/315408.shtml </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-190": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/989723.shtml </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-191": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/794828.shtml </code>",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-192": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/087594.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-193": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/781951.shtml </code>",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-194": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/855658.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-195": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/929796.shtml </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-196": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/782875.shtml </code>",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-197": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/243271.shtml </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-198": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/232452.shtml </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-199": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/613471.shtml </code>",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-200": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/827474.shtml </code>",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-201": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/085704.shtml </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-202": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/979146.shtml </code>",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-203": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/628264.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-204": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/390561.shtml </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-205": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/272744.shtml </code>",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-206": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/812207.shtml </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-207": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/247071.shtml </code>",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-208": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/379420.shtml </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-209": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/521236.shtml </code>",
+      "scheme": "https",
+      "weight": 11
+    },
+    "mirror-210": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/926463.shtml </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-211": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/020842.shtml </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-212": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/544336.shtml </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-213": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/621961.shtml </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-214": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/899424.shtml </code>",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-215": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/188335.shtml </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-216": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/922414.shtml </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-217": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/472468.shtml </code>",
+      "scheme": "https",
+      "weight": 18
+    },
+    "mirror-218": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/055552.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-219": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/797900.shtml </code>",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-220": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/417811.shtml </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-221": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/083795.shtml </code>",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-222": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/874878.shtml </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-223": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/830876.shtml </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-224": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/658791.shtml </code>",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-225": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/871284.shtml </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-226": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/543649.shtml </code>",
+      "scheme": "http",
+      "weight": 7
+    },
+    "mirror-227": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/366716.shtml </code>",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-228": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/254887.shtml </code>",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-229": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/086199.shtml </code>",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-230": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/827275.shtml </code>",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-231": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/928045.shtml </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-232": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/659881.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-233": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/618699.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-234": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/560856.shtml </code>",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-235": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/908701.shtml </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-236": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/729659.shtml </code>",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-237": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/354654.shtml </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-238": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/824962.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-239": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/086208.shtml </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-240": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/866241.shtml </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-241": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/554646.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-242": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/017117.shtml </code>",
+      "scheme": "https",
+      "weight": 13
+    },
+    "mirror-243": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/189395.shtml </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-244": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/472028.shtml </code>",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-245": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/173576.shtml </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-246": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/703222.shtml </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-247": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/573658.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-248": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/657393.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-249": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/852713.shtml </code>",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-250": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/366642.shtml </code>",
+      "scheme": "http",
+      "weight": 7
+    },
+    "mirror-251": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/353813.shtml </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-252": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/548664.shtml </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-253": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/987100.shtml </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-254": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/151924.shtml </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-255": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/452586.shtml </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-256": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/391099.shtml </code>",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-257": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/386723.shtml </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-258": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/347500.shtml </code>",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-259": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/567452.shtml </code>",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-260": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/897856.shtml </code>",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-261": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/942695.shtml </code>",
+      "scheme": "https",
+      "weight": 13
+    },
+    "mirror-262": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/044515.shtml </code>",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-263": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/218656.shtml </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-264": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/191854.shtml </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-265": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/260529.shtml </code>",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-266": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/444243.shtml </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-267": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/469308.shtml </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-268": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/426633.shtml </code>",
+      "scheme": "https",
+      "weight": 6
+    },
+    "mirror-269": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/394166.shtml </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-270": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/536064.shtml </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-271": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/259669.shtml </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-272": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/576309.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-273": {
+      "region": "华北",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/775800.shtml </code>",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-274": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/175874.shtml </code>",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-275": {
+      "region": "新加坡",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/164843.shtml </code>",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-276": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/768760.shtml </code>",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-277": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/984707.shtml </code>",
+      "scheme": "https",
+      "weight": 11
+    },
+    "mirror-278": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/307336.shtml </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-279": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/315898.shtml </code>",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-280": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/006013.shtml </code>",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-281": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/042389.shtml </code>",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-282": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/109214.shtml </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-283": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/311818.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-284": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/840601.shtml </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-285": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/203797.shtml </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-286": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/570382.shtml </code>",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-287": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/884187.shtml </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-288": {
+      "region": "华南",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/169957.shtml </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-289": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/775337.shtml </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-290": {
+      "region": "华东",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/502970.shtml </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-291": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/632852.shtml </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-292": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/975487.shtml </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-293": {
+      "region": "香港",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/320140.shtml </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-294": {
+      "region": "华北",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/047562.shtml </code>",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-295": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/207635.shtml </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-296": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/016376.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-297": {
+      "region": "华东",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/317985.shtml </code>",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-298": {
+      "region": "香港",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/364959.shtml </code>",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-299": {
+      "region": "华南",
+      "url": "<code> www.share.xiangkejiazu.com/Article/details/586391.shtml </code>",
+      "scheme": "https",
+      "weight": 6
+    },
+    "mirror-300": {
+      "region": "新加坡",
+      "url": "<code> www.blog.xiangkejiazu.com/Article/details/344097.shtml </code>",
+      "scheme": "http",
+      "weight": 15
+    }
+  }
+}
