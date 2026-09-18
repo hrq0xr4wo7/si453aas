@@ -1,0 +1,1783 @@
+{
+  "catalog": {
+    "name": "流鼻血时要仰头？别再用这些“急救方法” 严重可能致命",
+    "author": "柳如烟",
+    "updated": "2026-09-19 02:32:59"
+  },
+  "themes": [
+    {
+      "name": "内容站",
+      "code": "content",
+      "templates": [
+        {
+          "name": "国家数据局：适时推动具身智能数据标准建设 积极支持企业加大数据投入",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/000326.shtml </code>",
+          "layout": "双栏",
+          "version": "6.5",
+          "responsive": true
+        },
+        {
+          "name": "（乡村行·看振兴）广西千年古镇焕新成打卡地 带动村民变身“主理人”",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/250576.shtml </code>",
+          "layout": "双栏",
+          "version": "2.5",
+          "responsive": true
+        },
+        {
+          "name": "视频画报｜重温习近平主席在金砖峰会的精彩时刻",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/943663.shtml </code>",
+          "layout": "双栏",
+          "version": "4.6",
+          "responsive": true
+        },
+        {
+          "name": "WCLC大会开幕！一文搞懂创新药临床指标",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/071145.shtml </code>",
+          "layout": "双栏",
+          "version": "1.7",
+          "responsive": true
+        },
+        {
+          "name": "哈塞特：白宫认为没有理由加息 但将百分之百支持美联储的决定",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/134858.shtml </code>",
+          "layout": "单栏",
+          "version": "3.9",
+          "responsive": true
+        },
+        {
+          "name": "浩瀚深度：股东雷振明拟减持不超1%股份",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/771407.shtml </code>",
+          "layout": "单栏",
+          "version": "8.7",
+          "responsive": true
+        },
+        {
+          "name": "印尼失联客轮事故位置确认 海浪超2米给救援带来困难",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/054437.shtml </code>",
+          "layout": "双栏",
+          "version": "5.4",
+          "responsive": true
+        },
+        {
+          "name": "新华图讯｜习近平会见印度总理莫迪",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/541315.shtml </code>",
+          "layout": "单栏",
+          "version": "9.9",
+          "responsive": true
+        },
+        {
+          "name": "中巨芯拟投11亿元布局半导体高纯石英 标的公司尚未盈利",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/562698.shtml </code>",
+          "layout": "单栏",
+          "version": "9.9",
+          "responsive": true
+        },
+        {
+          "name": "润禾材料：披露向不特定对象发行可转债中签结果",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/260428.shtml </code>",
+          "layout": "三栏",
+          "version": "3.8",
+          "responsive": true
+        },
+        {
+          "name": "NBA球星斯蒂芬·库里到访广东东莞助阵粤BA全明星赛",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/739095.shtml </code>",
+          "layout": "单栏",
+          "version": "8.3",
+          "responsive": true
+        },
+        {
+          "name": "2026中国（北京）国际精品陶瓷展览会新闻发布会举办",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/461053.shtml </code>",
+          "layout": "三栏",
+          "version": "5.8",
+          "responsive": true
+        },
+        {
+          "name": "美股三大指数集体收涨 戴尔科技大涨11%",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/454135.shtml </code>",
+          "layout": "双栏",
+          "version": "1.2",
+          "responsive": true
+        },
+        {
+          "name": "受热带低压环流影响 广西部分海上航线及旅游项目暂停",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/687008.shtml </code>",
+          "layout": "双栏",
+          "version": "2.6",
+          "responsive": true
+        },
+        {
+          "name": "四川“两弹城”架起连心桥：红色旅游促各民族交往交流交融",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/280732.shtml </code>",
+          "layout": "全宽",
+          "version": "7.2",
+          "responsive": true
+        },
+        {
+          "name": "Anthropic呼吁放慢先进AI模型开发 马斯克等业界大佬表示赞同",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/006661.shtml </code>",
+          "layout": "全宽",
+          "version": "8.9",
+          "responsive": true
+        },
+        {
+          "name": "给工厂装上“AI节能大脑” 浙江宁波以AI赋能制造业绿色发展",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/846225.shtml </code>",
+          "layout": "单栏",
+          "version": "5.3",
+          "responsive": true
+        },
+        {
+          "name": "中国建筑国际遭执行董事孔祥兆减持9万股 每股作价8.54港元",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/707786.shtml </code>",
+          "layout": "全宽",
+          "version": "4.0",
+          "responsive": true
+        },
+        {
+          "name": "报道：摩根大通在Situational Awareness亏损后终止放贷关系",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/029802.shtml </code>",
+          "layout": "三栏",
+          "version": "5.7",
+          "responsive": true
+        },
+        {
+          "name": "中国移动总经理陈扬帆：适度超前建强算力基础设施 AIDC总签约规模超7GW",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/627169.shtml </code>",
+          "layout": "单栏",
+          "version": "2.4",
+          "responsive": true
+        },
+        {
+          "name": "iPhone 18 Pro系列多电商平台售罄",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/798828.shtml </code>",
+          "layout": "单栏",
+          "version": "9.5",
+          "responsive": true
+        },
+        {
+          "name": "深交所终止安徽久易农业股份有限公司创业板IPO审核",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/248878.shtml </code>",
+          "layout": "双栏",
+          "version": "8.3",
+          "responsive": true
+        },
+        {
+          "name": "（乡村行·看振兴）泥土里的“乡愁课堂”",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/479692.shtml </code>",
+          "layout": "三栏",
+          "version": "5.5",
+          "responsive": true
+        },
+        {
+          "name": "俊知集团拟4.55亿元收购青海中利光纤100%股权",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/565130.shtml </code>",
+          "layout": "单栏",
+          "version": "2.9",
+          "responsive": true
+        },
+        {
+          "name": "聚焦智能科创新能源 台湾青年参访团在渝深入考察交流",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/687843.shtml </code>",
+          "layout": "双栏",
+          "version": "8.1",
+          "responsive": true
+        },
+        {
+          "name": "股价异动后，2只PCB大牛股澄清供货英伟达传闻",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/460753.shtml </code>",
+          "layout": "双栏",
+          "version": "6.2",
+          "responsive": true
+        },
+        {
+          "name": "A股调整临近尾声？投资主线有哪些？十大券商策略来了",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/628868.shtml </code>",
+          "layout": "单栏",
+          "version": "9.4",
+          "responsive": true
+        },
+        {
+          "name": "涉足控制器芯片！605303，筹划重大资产重组",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/385914.shtml </code>",
+          "layout": "全宽",
+          "version": "4.2",
+          "responsive": true
+        },
+        {
+          "name": "“大金砖合作”凝聚力量，全球南方共谋发展",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/798781.shtml </code>",
+          "layout": "单栏",
+          "version": "2.4",
+          "responsive": true
+        },
+        {
+          "name": "康宁美股盘后下跌3%",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/200461.shtml </code>",
+          "layout": "全宽",
+          "version": "8.3",
+          "responsive": true
+        },
+        {
+          "name": "西藏印社在拉萨成立",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/855254.shtml </code>",
+          "layout": "单栏",
+          "version": "8.4",
+          "responsive": true
+        },
+        {
+          "name": "为构建人类命运共同体贡献“大金砖”力量",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/549618.shtml </code>",
+          "layout": "单栏",
+          "version": "9.7",
+          "responsive": true
+        },
+        {
+          "name": "中新健康 | 花粉过敏，别硬扛！",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/043809.shtml </code>",
+          "layout": "三栏",
+          "version": "2.8",
+          "responsive": true
+        },
+        {
+          "name": "第十八届湖南茶博会推动两岸茶产业资源互通",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/039874.shtml </code>",
+          "layout": "全宽",
+          "version": "4.2",
+          "responsive": true
+        },
+        {
+          "name": "“水光针”不是万能美容针，你真的需要吗？",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/037847.shtml </code>",
+          "layout": "三栏",
+          "version": "8.7",
+          "responsive": true
+        },
+        {
+          "name": "习近平宣布中国将于明年接任金砖主席国",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/628133.shtml </code>",
+          "layout": "三栏",
+          "version": "0.2",
+          "responsive": true
+        },
+        {
+          "name": "沙特输油管道中断 全球石油供应恐损失4%",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/822349.shtml </code>",
+          "layout": "三栏",
+          "version": "3.3",
+          "responsive": true
+        },
+        {
+          "name": "严打股市“小作文” 证监会四份罚单剑指造谣传谣",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/923612.shtml </code>",
+          "layout": "三栏",
+          "version": "7.6",
+          "responsive": true
+        },
+        {
+          "name": "普京称欧洲军队入乌等于同俄开战",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/760824.shtml </code>",
+          "layout": "双栏",
+          "version": "6.5",
+          "responsive": true
+        },
+        {
+          "name": "沐曦股份下周解禁68亿，机构大幅浮盈，会否重演摩尔线程解禁日表现？",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/011509.shtml </code>",
+          "layout": "单栏",
+          "version": "9.0",
+          "responsive": true
+        },
+        {
+          "name": "“两园一河”京西漂流节联动三区",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/267081.shtml </code>",
+          "layout": "全宽",
+          "version": "7.4",
+          "responsive": true
+        },
+        {
+          "name": "三家具身智能头部企业被同行举报？涉及企业回应",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/778453.shtml </code>",
+          "layout": "三栏",
+          "version": "6.0",
+          "responsive": true
+        },
+        {
+          "name": "Anthropic联合创始人兼首席执行官：必须放慢提升AI模型能力的速度",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/862622.shtml </code>",
+          "layout": "全宽",
+          "version": "0.8",
+          "responsive": true
+        },
+        {
+          "name": "年内多个智算项目规模翻倍 算力厂商最关心“电能否跟得上节奏”",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/157689.shtml </code>",
+          "layout": "全宽",
+          "version": "0.6",
+          "responsive": true
+        },
+        {
+          "name": "壹视界·心相知｜习主席“典”亮金砖合作",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/862898.shtml </code>",
+          "layout": "双栏",
+          "version": "6.3",
+          "responsive": true
+        },
+        {
+          "name": "宁德时代启动A股史上最大回购",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/136300.shtml </code>",
+          "layout": "双栏",
+          "version": "2.3",
+          "responsive": true
+        },
+        {
+          "name": "特朗普连续3天许诺5000美元分红：若共和党赢下中选 每位年轻人发钱",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/564453.shtml </code>",
+          "layout": "双栏",
+          "version": "1.3",
+          "responsive": true
+        },
+        {
+          "name": "中国男篮大胜巴林队 提前晋级亚运会八强",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/323386.shtml </code>",
+          "layout": "三栏",
+          "version": "2.6",
+          "responsive": true
+        },
+        {
+          "name": "每10分钟下线1台 柳州优必选万台级工业人形机器人超级智慧工厂投产",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/668307.shtml </code>",
+          "layout": "全宽",
+          "version": "8.6",
+          "responsive": true
+        },
+        {
+          "name": "习近平：开启金砖合作第三个“金色十年”",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/861847.shtml </code>",
+          "layout": "单栏",
+          "version": "7.9",
+          "responsive": true
+        },
+        {
+          "name": "《欢迎来龙餐馆》海外热映 高校教师“英文译制”中国故事",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/077108.shtml </code>",
+          "layout": "三栏",
+          "version": "9.5",
+          "responsive": true
+        },
+        {
+          "name": "2026中国网球菁英团体邀请赛北京站圆满落幕",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/776963.shtml </code>",
+          "layout": "三栏",
+          "version": "7.7",
+          "responsive": true
+        },
+        {
+          "name": "女篮世界杯：法国队、美国队晋级决赛",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/584532.shtml </code>",
+          "layout": "全宽",
+          "version": "7.8",
+          "responsive": true
+        },
+        {
+          "name": "在服贸会看AI点亮“教与学”新场景",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/098830.shtml </code>",
+          "layout": "全宽",
+          "version": "3.5",
+          "responsive": true
+        },
+        {
+          "name": "甲骨文暗盘拉升，董事长取消股票出售计划",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/459857.shtml </code>",
+          "layout": "双栏",
+          "version": "1.3",
+          "responsive": true
+        },
+        {
+          "name": "视频|因经纪人合规管理不到位等问题，浙商证券、公司高管等一同被监管约谈",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/868318.shtml </code>",
+          "layout": "单栏",
+          "version": "2.2",
+          "responsive": true
+        },
+        {
+          "name": "纳斯达克中国金龙指数收涨0.4%",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/635855.shtml </code>",
+          "layout": "单栏",
+          "version": "8.2",
+          "responsive": true
+        },
+        {
+          "name": "郑永年：AI是“技术利维坦” 人类必须掌握方向盘",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/907997.shtml </code>",
+          "layout": "双栏",
+          "version": "5.0",
+          "responsive": true
+        },
+        {
+          "name": "美国总统称美方与胡塞武装进行通话 胡塞武装暂未回应",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/003763.shtml </code>",
+          "layout": "单栏",
+          "version": "6.7",
+          "responsive": true
+        },
+        {
+          "name": "华储网：9月15日中央储备冻猪肉轮换出库挂牌国产冻猪肉15500吨",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/864366.shtml </code>",
+          "layout": "全宽",
+          "version": "8.7",
+          "responsive": true
+        },
+        {
+          "name": "视频|星宇股份股价4连跌 两周市值蒸发约28亿元",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/612049.shtml </code>",
+          "layout": "双栏",
+          "version": "9.2",
+          "responsive": true
+        },
+        {
+          "name": "如何看待9月银行股逆市新高？",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/433267.shtml </code>",
+          "layout": "单栏",
+          "version": "8.2",
+          "responsive": true
+        },
+        {
+          "name": "案值巨大 美前中情局官员与检方达成临时认罪协议",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/265662.shtml </code>",
+          "layout": "单栏",
+          "version": "3.7",
+          "responsive": true
+        }
+      ]
+    },
+    {
+      "name": "导航站",
+      "code": "nav",
+      "templates": [
+        {
+          "name": "马来西亚琼籍歌手朱主爱海南开唱：开启文化寻根之旅",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/267543.shtml </code>",
+          "layout": "三栏",
+          "version": "9.5",
+          "responsive": true
+        },
+        {
+          "name": "美国债市：国债涨跌不一 收益率曲线走平 通胀报告支持美联储加息",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/416835.shtml </code>",
+          "layout": "全宽",
+          "version": "6.3",
+          "responsive": true
+        },
+        {
+          "name": "2025年度世界一流科技期刊目录发布",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/694680.shtml </code>",
+          "layout": "双栏",
+          "version": "1.9",
+          "responsive": true
+        },
+        {
+          "name": "马斯克抨击纪录片《马斯克》导演",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/776162.shtml </code>",
+          "layout": "双栏",
+          "version": "4.0",
+          "responsive": true
+        },
+        {
+          "name": "闽超联赛：福州队主场1比2不敌厦门队",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/663638.shtml </code>",
+          "layout": "全宽",
+          "version": "4.3",
+          "responsive": true
+        },
+        {
+          "name": "8月超八成私募机构资产管理实现正收益",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/209977.shtml </code>",
+          "layout": "三栏",
+          "version": "2.7",
+          "responsive": true
+        },
+        {
+          "name": "产学研协同赋能西北城市更新 第十一届西安城市更新大会举行",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/056563.shtml </code>",
+          "layout": "全宽",
+          "version": "1.3",
+          "responsive": true
+        },
+        {
+          "name": "视频|银河通用报案 邵兰天回应：与我无关",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/503986.shtml </code>",
+          "layout": "三栏",
+          "version": "6.2",
+          "responsive": true
+        },
+        {
+          "name": "韩国延长交易时长，测试全球投资者的参与意愿",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/360731.shtml </code>",
+          "layout": "三栏",
+          "version": "6.7",
+          "responsive": true
+        },
+        {
+          "name": "浦江创新论坛首个非洲主宾国南非冀多领域技术合作",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/251455.shtml </code>",
+          "layout": "三栏",
+          "version": "3.9",
+          "responsive": true
+        },
+        {
+          "name": "智谱：以零息+溢价转股形式融资50亿美元 释放长期股权预期",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/643949.shtml </code>",
+          "layout": "全宽",
+          "version": "8.4",
+          "responsive": true
+        },
+        {
+          "name": "“人工智能+软件”专项行动实施方案出炉 软件业竞争逻辑转向“拼智能体”",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/185465.shtml </code>",
+          "layout": "三栏",
+          "version": "1.1",
+          "responsive": true
+        },
+        {
+          "name": "重庆市政府办公厅副主任陶晓锋接受审查调查",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/811831.shtml </code>",
+          "layout": "全宽",
+          "version": "0.6",
+          "responsive": true
+        },
+        {
+          "name": "案值巨大 美中情局前官员达成临时认罪协议",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/689772.shtml </code>",
+          "layout": "单栏",
+          "version": "9.9",
+          "responsive": true
+        },
+        {
+          "name": "“疆煤入冀”哈密煤炭万吨首发专列运抵唐山港",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/297564.shtml </code>",
+          "layout": "双栏",
+          "version": "7.9",
+          "responsive": true
+        },
+        {
+          "name": "实验室“开门” 大装置“破壁” 合肥科学岛迎来公众探访",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/999191.shtml </code>",
+          "layout": "三栏",
+          "version": "0.4",
+          "responsive": true
+        },
+        {
+          "name": "政企携手，互惠共赢 北京市昌平区政府与中国太保产险达成战略合作",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/103288.shtml </code>",
+          "layout": "全宽",
+          "version": "5.5",
+          "responsive": true
+        },
+        {
+          "name": "中央组织部等5部委负责人就修订行业事业单位领导人员管理“5个办法”答记者问",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/301686.shtml </code>",
+          "layout": "单栏",
+          "version": "6.4",
+          "responsive": true
+        },
+        {
+          "name": "大学生活费怎么给？谈“钱”之前，先谈“生活”",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/491428.shtml </code>",
+          "layout": "单栏",
+          "version": "5.8",
+          "responsive": true
+        },
+        {
+          "name": "宁夏：青少年乐享科普嘉年华",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/479244.shtml </code>",
+          "layout": "单栏",
+          "version": "5.3",
+          "responsive": true
+        },
+        {
+          "name": "（乡村行·看振兴）广西乡村秋种香葱忙 小葱成富民“金钥匙”",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/103295.shtml </code>",
+          "layout": "全宽",
+          "version": "7.1",
+          "responsive": true
+        },
+        {
+          "name": "折叠屏集体“上桌”：华为秒罄、苹果入局 高端市场战火重燃",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/169135.shtml </code>",
+          "layout": "单栏",
+          "version": "3.2",
+          "responsive": true
+        },
+        {
+          "name": "AI是一场文明跃迁，大模型只是序幕，能源是终极约束",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/020435.shtml </code>",
+          "layout": "全宽",
+          "version": "5.8",
+          "responsive": true
+        },
+        {
+          "name": "申万宏源策略：坦然面对暂无突破方向，9月议息后或迎小级别反弹窗口",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/697713.shtml </code>",
+          "layout": "单栏",
+          "version": "9.8",
+          "responsive": true
+        },
+        {
+          "name": "2026年重庆市全国科普月主场活动举行",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/792047.shtml </code>",
+          "layout": "单栏",
+          "version": "1.2",
+          "responsive": true
+        },
+        {
+          "name": "全球知名铁人三项赛首次落地大理：中美选手分获男女冠军",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/388413.shtml </code>",
+          "layout": "单栏",
+          "version": "5.7",
+          "responsive": true
+        },
+        {
+          "name": "服贸会多个 “首次”，助中企出海走出深水区",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/773161.shtml </code>",
+          "layout": "双栏",
+          "version": "8.7",
+          "responsive": true
+        },
+        {
+          "name": "习近平圆满结束出席金砖国家领导人第十八次会晤",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/016844.shtml </code>",
+          "layout": "双栏",
+          "version": "3.9",
+          "responsive": true
+        },
+        {
+          "name": "上海（长三角）国际科技创新中心建设阶段成果发布",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/027336.shtml </code>",
+          "layout": "全宽",
+          "version": "7.9",
+          "responsive": true
+        },
+        {
+          "name": "夜盘期货收盘",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/080092.shtml </code>",
+          "layout": "三栏",
+          "version": "3.0",
+          "responsive": true
+        },
+        {
+          "name": "金安国纪：未与英伟达、华为有过接触",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/299163.shtml </code>",
+          "layout": "单栏",
+          "version": "5.8",
+          "responsive": true
+        },
+        {
+          "name": "一波未平一波又起，星宇股份实在是“错得离谱”",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/715236.shtml </code>",
+          "layout": "三栏",
+          "version": "0.8",
+          "responsive": true
+        },
+        {
+          "name": "南海热带低压13日将在越南登陆 海南强降雨仍持续",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/014373.shtml </code>",
+          "layout": "全宽",
+          "version": "5.8",
+          "responsive": true
+        },
+        {
+          "name": "深夜，全线跳水！AI芯片，重大变数！后市怎么走？最新解读来了",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/137557.shtml </code>",
+          "layout": "三栏",
+          "version": "5.8",
+          "responsive": true
+        },
+        {
+          "name": "星宇股份风波全记录：从暴力劝退到年报连环出错，一家上市公司为何屡踩红线？",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/210777.shtml </code>",
+          "layout": "三栏",
+          "version": "9.1",
+          "responsive": true
+        },
+        {
+          "name": "报告：中国位列全球太空基础设施评估第二",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/283015.shtml </code>",
+          "layout": "三栏",
+          "version": "1.5",
+          "responsive": true
+        },
+        {
+          "name": "第16次APEC能源部长会议在京闭幕",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/618694.shtml </code>",
+          "layout": "双栏",
+          "version": "0.2",
+          "responsive": true
+        },
+        {
+          "name": "“加德满都对话会”聚焦中尼防灾减灾合作",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/987813.shtml </code>",
+          "layout": "三栏",
+          "version": "9.7",
+          "responsive": true
+        },
+        {
+          "name": "英伟达被曝拟出资100亿美元参与Anthropic首次公开募股",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/181479.shtml </code>",
+          "layout": "三栏",
+          "version": "3.4",
+          "responsive": true
+        },
+        {
+          "name": "金砖国家领导人第十八次会晤新德里宣言（摘要）",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/850969.shtml </code>",
+          "layout": "全宽",
+          "version": "5.4",
+          "responsive": true
+        },
+        {
+          "name": "传统主业步入成熟后期 研究成果聚焦国企科技创新“第二曲线”",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/330668.shtml </code>",
+          "layout": "全宽",
+          "version": "5.2",
+          "responsive": true
+        },
+        {
+          "name": "私募产品前8月平均收益率近5%",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/608007.shtml </code>",
+          "layout": "三栏",
+          "version": "6.5",
+          "responsive": true
+        },
+        {
+          "name": "戒烟靠意志、放下香烟为何这么难？听专家解疑并支招",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/043702.shtml </code>",
+          "layout": "双栏",
+          "version": "2.0",
+          "responsive": true
+        },
+        {
+          "name": "沙特能源部表示 利雅得和麦地那地区的东西输油管道在周四遭数次袭击后已被暂时关闭",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/287621.shtml </code>",
+          "layout": "三栏",
+          "version": "6.0",
+          "responsive": true
+        },
+        {
+          "name": "浙江新能：2026年半年度权益分派实施公告",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/484048.shtml </code>",
+          "layout": "三栏",
+          "version": "8.9",
+          "responsive": true
+        },
+        {
+          "name": "2026巴黎设计周中国创新馆开馆仪式举行",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/357381.shtml </code>",
+          "layout": "三栏",
+          "version": "0.3",
+          "responsive": true
+        },
+        {
+          "name": "东西问丨学者对谈：中拉如何共同编织科技与人权合作图景？",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/458028.shtml </code>",
+          "layout": "全宽",
+          "version": "2.6",
+          "responsive": true
+        },
+        {
+          "name": "药膳竞技促“桂药膳”出圈 广西推动药食同源产业提质扩能",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/776349.shtml </code>",
+          "layout": "全宽",
+          "version": "6.8",
+          "responsive": true
+        },
+        {
+          "name": "服贸会期间北京石景山具身智能训练中心升级亮相",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/130125.shtml </code>",
+          "layout": "单栏",
+          "version": "9.2",
+          "responsive": true
+        },
+        {
+          "name": "香港潮属社团总会举办“2026出花园成人礼仪式”",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/626706.shtml </code>",
+          "layout": "三栏",
+          "version": "1.0",
+          "responsive": true
+        },
+        {
+          "name": "“支付宝假APP”上热搜！支付宝回应",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/652296.shtml </code>",
+          "layout": "全宽",
+          "version": "4.8",
+          "responsive": true
+        },
+        {
+          "name": "Anthropic上市料造就大批百万富翁 华尔街大行争抢财富管理生意",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/073056.shtml </code>",
+          "layout": "单栏",
+          "version": "2.7",
+          "responsive": true
+        },
+        {
+          "name": "胡塞武装接连拿下政府军战略要地 已控制也门整个西部海岸",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/836217.shtml </code>",
+          "layout": "三栏",
+          "version": "3.8",
+          "responsive": true
+        },
+        {
+          "name": "“琮谱——良渚遗址发现九十周年特展”在浙江杭州启幕",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/119389.shtml </code>",
+          "layout": "三栏",
+          "version": "1.7",
+          "responsive": true
+        },
+        {
+          "name": "中国水产养殖创新实践亮相联合国粮农组织渔委会",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/764044.shtml </code>",
+          "layout": "三栏",
+          "version": "9.6",
+          "responsive": true
+        },
+        {
+          "name": "船多货少格局延续，粮船运价以稳为主、局部微调",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/066650.shtml </code>",
+          "layout": "双栏",
+          "version": "1.1",
+          "responsive": true
+        },
+        {
+          "name": "2026中国—东盟（南宁）城市媒体圆桌会举办",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/704502.shtml </code>",
+          "layout": "双栏",
+          "version": "5.1",
+          "responsive": true
+        },
+        {
+          "name": "“过气网红”小熊电器：小家电卖不动，上半年营利双降，高端化遇阻",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/552503.shtml </code>",
+          "layout": "三栏",
+          "version": "0.6",
+          "responsive": true
+        },
+        {
+          "name": "国家大剧院原创话剧《背包客》首演",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/961122.shtml </code>",
+          "layout": "三栏",
+          "version": "0.9",
+          "responsive": true
+        },
+        {
+          "name": "第四届绿色牧场公众开放日举行 聚焦绿色种养循环创新发展",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/570212.shtml </code>",
+          "layout": "全宽",
+          "version": "3.7",
+          "responsive": true
+        },
+        {
+          "name": "全国约2000名“勇士”成都挑战2026斯巴达勇士赛",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/507947.shtml </code>",
+          "layout": "单栏",
+          "version": "4.2",
+          "responsive": true
+        },
+        {
+          "name": "百余名港澳台学子相聚北京：在交流中扩大“朋友圈”",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/814152.shtml </code>",
+          "layout": "单栏",
+          "version": "7.3",
+          "responsive": true
+        },
+        {
+          "name": "蒙蟹开捕 内蒙古河套盐碱水养出“生态蟹”",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/589679.shtml </code>",
+          "layout": "单栏",
+          "version": "7.6",
+          "responsive": true
+        }
+      ]
+    },
+    {
+      "name": "工具站",
+      "code": "tool",
+      "templates": [
+        {
+          "name": "哈马斯下属卡桑旅证实：高级成员被以军打死",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/216586.shtml </code>",
+          "layout": "全宽",
+          "version": "4.9",
+          "responsive": true
+        },
+        {
+          "name": "胜利证券(08540)拟配股融资6001万",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/234409.shtml </code>",
+          "layout": "全宽",
+          "version": "7.2",
+          "responsive": true
+        },
+        {
+          "name": "今年卖家电，谁最赚钱？这些家电，卖不动了",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/966935.shtml </code>",
+          "layout": "三栏",
+          "version": "3.3",
+          "responsive": true
+        },
+        {
+          "name": "下周，两大重磅事件！A股重回年内低位，机构建议大胆布局",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/195970.shtml </code>",
+          "layout": "单栏",
+          "version": "0.9",
+          "responsive": true
+        },
+        {
+          "name": "习近平：中方愿同金砖成员一道 为实现中东海湾地区和平安宁发挥应有作用",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/201755.shtml </code>",
+          "layout": "全宽",
+          "version": "0.1",
+          "responsive": true
+        },
+        {
+          "name": "2026年宁夏青少年禁毒知识竞赛总决赛在银川举办",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/792451.shtml </code>",
+          "layout": "全宽",
+          "version": "7.3",
+          "responsive": true
+        },
+        {
+          "name": "OpenAI证实其AI智能体于今年5月对RubyGems发起网络攻击",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/444459.shtml </code>",
+          "layout": "全宽",
+          "version": "8.7",
+          "responsive": true
+        },
+        {
+          "name": "全国算力“一张网、一盘棋、一体化”发展格局基本形成",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/019935.shtml </code>",
+          "layout": "三栏",
+          "version": "8.8",
+          "responsive": true
+        },
+        {
+          "name": "细分行业重挫，化工板块深度回调！估值仍处低位，机构高呼板块或进入击球区！",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/309374.shtml </code>",
+          "layout": "单栏",
+          "version": "6.8",
+          "responsive": true
+        },
+        {
+          "name": "交银国际：中金公司目标价上调至28.5港元 维持“买入”评级",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/603522.shtml </code>",
+          "layout": "三栏",
+          "version": "5.7",
+          "responsive": true
+        },
+        {
+          "name": "恒指期货夜盘收跌0.05%",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/287303.shtml </code>",
+          "layout": "全宽",
+          "version": "7.6",
+          "responsive": true
+        },
+        {
+          "name": "粤东城际铁路建设获新突破",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/323195.shtml </code>",
+          "layout": "三栏",
+          "version": "1.9",
+          "responsive": true
+        },
+        {
+          "name": "华夏基金：华夏创业板算力基础设施ETF9月17日起开放日常申赎业务",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/956598.shtml </code>",
+          "layout": "全宽",
+          "version": "0.9",
+          "responsive": true
+        },
+        {
+          "name": "华泰证券：港股基本面与贴现率赛跑 首选红利及创新药",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/941957.shtml </code>",
+          "layout": "双栏",
+          "version": "7.6",
+          "responsive": true
+        },
+        {
+          "name": "8月汽车销量同比降5.1%新能源及出口大增",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/945046.shtml </code>",
+          "layout": "全宽",
+          "version": "5.9",
+          "responsive": true
+        },
+        {
+          "name": "海南升级防汛防风应急响应至二级 已转移群众7000余人",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/877747.shtml </code>",
+          "layout": "双栏",
+          "version": "2.7",
+          "responsive": true
+        },
+        {
+          "name": "阿斯利康乳腺癌药物Etcamah三期临床未达主要终点",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/518322.shtml </code>",
+          "layout": "三栏",
+          "version": "4.5",
+          "responsive": true
+        },
+        {
+          "name": "清晰医疗：股票继续暂停买卖",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/203517.shtml </code>",
+          "layout": "单栏",
+          "version": "9.4",
+          "responsive": true
+        },
+        {
+          "name": "中国银行启动“一网三融”算力金融生态共建行动 为算力产业链提供不少于3000亿元综合金融支持",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/445498.shtml </code>",
+          "layout": "全宽",
+          "version": "8.5",
+          "responsive": true
+        },
+        {
+          "name": "霍元甲逝世116周年 霍月华天津寻根祭祖",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/404163.shtml </code>",
+          "layout": "全宽",
+          "version": "0.0",
+          "responsive": true
+        },
+        {
+          "name": "年内最便宜新股，来了！",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/698737.shtml </code>",
+          "layout": "单栏",
+          "version": "6.7",
+          "responsive": true
+        },
+        {
+          "name": "美军称对伊海上封锁已使99艘商船改变航向",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/758941.shtml </code>",
+          "layout": "三栏",
+          "version": "0.4",
+          "responsive": true
+        },
+        {
+          "name": "翱捷科技冲刺港股：上半年营收24.5亿 阿里减持 一年时间套现超17亿",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/192635.shtml </code>",
+          "layout": "双栏",
+          "version": "8.2",
+          "responsive": true
+        },
+        {
+          "name": "伊拉克解除米桑省行动指挥部司令职务 调查针对沙特袭击事件",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/888504.shtml </code>",
+          "layout": "全宽",
+          "version": "2.3",
+          "responsive": true
+        },
+        {
+          "name": "伊朗总统佩泽希齐扬表示 伊朗“目前无法做出”与美国进行直接谈判的决定 美国必须停止封锁",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/427743.shtml </code>",
+          "layout": "三栏",
+          "version": "1.2",
+          "responsive": true
+        },
+        {
+          "name": "2026年WDSF世界青年霹雳舞锦标赛在成都开赛",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/658275.shtml </code>",
+          "layout": "双栏",
+          "version": "0.8",
+          "responsive": true
+        },
+        {
+          "name": "数智赋能金融开放 服贸会搭建全球金融合作平台",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/611670.shtml </code>",
+          "layout": "单栏",
+          "version": "4.0",
+          "responsive": true
+        },
+        {
+          "name": "光模块龙头：产能目标已实现！迎近百家机构调研",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/624976.shtml </code>",
+          "layout": "单栏",
+          "version": "2.7",
+          "responsive": true
+        },
+        {
+          "name": "急性脑出血为何凶险？出现5大症状一定要小心",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/112037.shtml </code>",
+          "layout": "全宽",
+          "version": "8.9",
+          "responsive": true
+        },
+        {
+          "name": "支付宝安全中心就“网上流传所谓App截图”发布风险提醒",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/041075.shtml </code>",
+          "layout": "全宽",
+          "version": "8.4",
+          "responsive": true
+        },
+        {
+          "name": "为全球南方聚力 启金砖合作新程——中共中央政治局委员、外交部长王毅谈习近平主席赴印度出席金砖国家领导人第十八次会晤",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/320503.shtml </code>",
+          "layout": "三栏",
+          "version": "2.0",
+          "responsive": true
+        },
+        {
+          "name": "伊朗和阿曼将通报霍尔木兹海峡通航磋商结果",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/149045.shtml </code>",
+          "layout": "全宽",
+          "version": "1.6",
+          "responsive": true
+        },
+        {
+          "name": "伊朗总统佩泽希齐扬表示 如果美国结束封锁 霍尔木兹海峡将重新开放",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/296972.shtml </code>",
+          "layout": "全宽",
+          "version": "5.7",
+          "responsive": true
+        },
+        {
+          "name": "厄尔尼诺将达“超强”级别 该如何应对极端天气？",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/281126.shtml </code>",
+          "layout": "三栏",
+          "version": "3.7",
+          "responsive": true
+        },
+        {
+          "name": "香港西九文化区上演纪念张国荣无人机汇演",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/979420.shtml </code>",
+          "layout": "全宽",
+          "version": "3.5",
+          "responsive": true
+        },
+        {
+          "name": "星宇股份解约107名应届生并非因为上市，实际原因更恶劣",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/164116.shtml </code>",
+          "layout": "全宽",
+          "version": "6.7",
+          "responsive": true
+        },
+        {
+          "name": "汇兑“阵痛”拖累业绩 工程机械行业分化加剧 下半年盈利拐点渐近",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/567302.shtml </code>",
+          "layout": "全宽",
+          "version": "4.0",
+          "responsive": true
+        },
+        {
+          "name": "波音与工程师工会据悉达成暂定合同协议",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/664111.shtml </code>",
+          "layout": "全宽",
+          "version": "2.4",
+          "responsive": true
+        },
+        {
+          "name": "（经济观察）平陆运河通航有望助力海南自贸港与东盟经贸往来",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/086931.shtml </code>",
+          "layout": "三栏",
+          "version": "5.7",
+          "responsive": true
+        },
+        {
+          "name": "特斯拉Semi卡车将进军欧洲 满载续航最高550公里",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/716265.shtml </code>",
+          "layout": "双栏",
+          "version": "9.4",
+          "responsive": true
+        },
+        {
+          "name": "OpenAI证实其正在测试的AI智能体在今年5月对RubyGems发起了网络攻击",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/739049.shtml </code>",
+          "layout": "全宽",
+          "version": "2.4",
+          "responsive": true
+        },
+        {
+          "name": "手腕勒出“白圈”、皮肤粗糙……小心“戴”出来的皮炎！",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/206505.shtml </code>",
+          "layout": "全宽",
+          "version": "0.1",
+          "responsive": true
+        },
+        {
+          "name": "“不做打工人”！车企大动作：降低“含宁量”，“宁王”慌不慌？",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/199261.shtml </code>",
+          "layout": "双栏",
+          "version": "8.9",
+          "responsive": true
+        },
+        {
+          "name": "不止加息一次？美国8月CPI引发市场疯狂猜测",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/183588.shtml </code>",
+          "layout": "单栏",
+          "version": "6.6",
+          "responsive": true
+        },
+        {
+          "name": "一列车在波乌边境乌方一侧遭无人机撞击",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/409888.shtml </code>",
+          "layout": "单栏",
+          "version": "9.0",
+          "responsive": true
+        },
+        {
+          "name": "中超联赛：武汉三镇主场平河南俱乐部彩陶坊",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/851102.shtml </code>",
+          "layout": "三栏",
+          "version": "2.2",
+          "responsive": true
+        },
+        {
+          "name": "斯诺克英格兰公开赛：丁俊晖晋级四强",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/705430.shtml </code>",
+          "layout": "全宽",
+          "version": "5.3",
+          "responsive": true
+        },
+        {
+          "name": "星宇股份再爆第三雷：产业园九成员工是临时工",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/181179.shtml </code>",
+          "layout": "双栏",
+          "version": "7.4",
+          "responsive": true
+        },
+        {
+          "name": "特朗普提名的美国公共卫生局局长人选披露持有烟草及饮料公司投资",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/601233.shtml </code>",
+          "layout": "全宽",
+          "version": "1.2",
+          "responsive": true
+        },
+        {
+          "name": "月之暗面：网传关于创始人及员工的信息系恶意造谣 已报案",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/460960.shtml </code>",
+          "layout": "全宽",
+          "version": "6.4",
+          "responsive": true
+        },
+        {
+          "name": "高校买商品房当学生宿舍：空调洗衣机齐全 双人间一年1320元",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/354556.shtml </code>",
+          "layout": "三栏",
+          "version": "1.8",
+          "responsive": true
+        },
+        {
+          "name": "敬一丹去世",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/299232.shtml </code>",
+          "layout": "全宽",
+          "version": "1.5",
+          "responsive": true
+        },
+        {
+          "name": "哔哩哔哩-W获UBS Group AG增持约759.24万股 每股作价约116.51港元",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/782860.shtml </code>",
+          "layout": "三栏",
+          "version": "0.0",
+          "responsive": true
+        },
+        {
+          "name": "金风科技获贝莱德增持37.64万股 每股作价约9.17港元",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/992223.shtml </code>",
+          "layout": "三栏",
+          "version": "8.8",
+          "responsive": true
+        },
+        {
+          "name": "宁夏兴庆“零重力飞机工业杯”汽车越野场地赛鸣枪开赛",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/478697.shtml </code>",
+          "layout": "三栏",
+          "version": "4.8",
+          "responsive": true
+        },
+        {
+          "name": "神州细胞：四名股东拟合计减持不超0.94%股份",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/154517.shtml </code>",
+          "layout": "三栏",
+          "version": "8.3",
+          "responsive": true
+        },
+        {
+          "name": "欧洲9国考察团探访贺兰山东麓 品味宁夏“紫色名片”",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/367832.shtml </code>",
+          "layout": "单栏",
+          "version": "1.2",
+          "responsive": true
+        },
+        {
+          "name": "CPO龙头，环比暴增超45%！本周15股获南向资金大幅加仓",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/012111.shtml </code>",
+          "layout": "三栏",
+          "version": "6.1",
+          "responsive": true
+        },
+        {
+          "name": "“央行超级周”来袭！美联储、英国和日本央行谁会先加息？",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/330079.shtml </code>",
+          "layout": "单栏",
+          "version": "4.1",
+          "responsive": true
+        },
+        {
+          "name": "美股资金出逃创年内新高！美联储加息箭在弦上，市场怎么走？",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/544196.shtml </code>",
+          "layout": "三栏",
+          "version": "7.9",
+          "responsive": true
+        },
+        {
+          "name": "发生了什么？有色ETF跳空下跌！华宝基金火线解读：情绪超跌成分明显，宏观扰动落地后或迎新阶段！",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/847100.shtml </code>",
+          "layout": "三栏",
+          "version": "5.8",
+          "responsive": true
+        },
+        {
+          "name": "汉桑科技：员工战略配售资管计划拟减持不超1.23%股份",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/900391.shtml </code>",
+          "layout": "全宽",
+          "version": "5.0",
+          "responsive": true
+        }
+      ]
+    },
+    {
+      "name": "展示站",
+      "code": "showcase",
+      "templates": [
+        {
+          "name": "赴秋日骑行之约 石家庄环城绿道骑游大会启幕",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/794338.shtml </code>",
+          "layout": "双栏",
+          "version": "0.8",
+          "responsive": true
+        },
+        {
+          "name": "麻精药品“出院带药”新规将实施 会带来哪些影响？",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/183480.shtml </code>",
+          "layout": "单栏",
+          "version": "1.3",
+          "responsive": true
+        },
+        {
+          "name": "杂技剧《美好生活》在北京上演",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/665348.shtml </code>",
+          "layout": "全宽",
+          "version": "3.4",
+          "responsive": true
+        },
+        {
+          "name": "高盛调整美联储政策预期：从此前预测按兵不动转为预计9月加息",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/523740.shtml </code>",
+          "layout": "三栏",
+          "version": "1.3",
+          "responsive": true
+        },
+        {
+          "name": "玉米油商品报价动态（2026-09-12）",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/297071.shtml </code>",
+          "layout": "全宽",
+          "version": "9.2",
+          "responsive": true
+        },
+        {
+          "name": "蒸馏之争 争的是智能时代的发展权｜专家热评",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/872625.shtml </code>",
+          "layout": "双栏",
+          "version": "0.6",
+          "responsive": true
+        },
+        {
+          "name": "二乙醇单异丙醇胺85%商品报价动态（2026-09-12）",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/751896.shtml </code>",
+          "layout": "双栏",
+          "version": "0.8",
+          "responsive": true
+        },
+        {
+          "name": "中塑股份中签号出炉 共9156个",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/401585.shtml </code>",
+          "layout": "双栏",
+          "version": "8.2",
+          "responsive": true
+        },
+        {
+          "name": "2026年世界攀联攀岩世界杯（中国贵阳）开赛 邓丽娟为中国队拿下首金",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/988052.shtml </code>",
+          "layout": "全宽",
+          "version": "1.8",
+          "responsive": true
+        },
+        {
+          "name": "宁波大学校长34秒发言火了，比仪式更重要的是体谅",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/097138.shtml </code>",
+          "layout": "全宽",
+          "version": "3.8",
+          "responsive": true
+        },
+        {
+          "name": "中央气象台：海南岛等地有大到暴雨 西南地区等地多阴雨",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/934929.shtml </code>",
+          "layout": "三栏",
+          "version": "8.5",
+          "responsive": true
+        },
+        {
+          "name": "造船巨头中远海运重工，拟A股IPO",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/145692.shtml </code>",
+          "layout": "全宽",
+          "version": "7.4",
+          "responsive": true
+        },
+        {
+          "name": "信息披露新规实施两周 私募基金体感如何",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/799743.shtml </code>",
+          "layout": "三栏",
+          "version": "1.3",
+          "responsive": true
+        },
+        {
+          "name": "创新推出机器人太极展演 2026年全民太极大会启幕",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/613152.shtml </code>",
+          "layout": "三栏",
+          "version": "5.0",
+          "responsive": true
+        },
+        {
+          "name": "欧洲央行行长拉加德：价格冲击将持续更长时间 AI领域估值非常高",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/666418.shtml </code>",
+          "layout": "单栏",
+          "version": "3.1",
+          "responsive": true
+        },
+        {
+          "name": "10台手机卖不出1台折叠屏 销售：看的人多下单的人少",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/565387.shtml </code>",
+          "layout": "单栏",
+          "version": "4.5",
+          "responsive": true
+        },
+        {
+          "name": "闽派文艺精品系列漆艺展在福州启幕",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/918300.shtml </code>",
+          "layout": "全宽",
+          "version": "8.2",
+          "responsive": true
+        },
+        {
+          "name": "815名运动员548张新面孔 亚运会中国体育看什么？",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/448340.shtml </code>",
+          "layout": "全宽",
+          "version": "3.2",
+          "responsive": true
+        },
+        {
+          "name": "近闻·习主席这样阐释金砖合作应有之义",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/423904.shtml </code>",
+          "layout": "单栏",
+          "version": "2.2",
+          "responsive": true
+        },
+        {
+          "name": "一AI对冲基金遭遇巨亏 摩根大通终止借贷合作",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/285056.shtml </code>",
+          "layout": "双栏",
+          "version": "1.3",
+          "responsive": true
+        },
+        {
+          "name": "中国园林“多景园”建成25周年庆祝活动在德国曼海姆举行",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/324730.shtml </code>",
+          "layout": "双栏",
+          "version": "1.8",
+          "responsive": true
+        },
+        {
+          "name": "明星扎堆“入职”景区NPC，如何跳出短期引流噱头？",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/779914.shtml </code>",
+          "layout": "三栏",
+          "version": "6.3",
+          "responsive": true
+        },
+        {
+          "name": "量子科技的“冷热之辨”",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/726075.shtml </code>",
+          "layout": "全宽",
+          "version": "8.2",
+          "responsive": true
+        },
+        {
+          "name": "南海热带低压生成 海南启动防汛防风四级应急响应",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/711663.shtml </code>",
+          "layout": "双栏",
+          "version": "4.9",
+          "responsive": true
+        },
+        {
+          "name": "粤港澳三地球员齐聚粤BA全明星赛",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/708241.shtml </code>",
+          "layout": "三栏",
+          "version": "3.0",
+          "responsive": true
+        },
+        {
+          "name": "塞尔维亚总统武契奇视察“卡拉乔尔杰领袖走廊”快速路项目",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/893854.shtml </code>",
+          "layout": "双栏",
+          "version": "7.7",
+          "responsive": true
+        },
+        {
+          "name": "广西民众扬帆逐浪 千人横渡融江",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/357014.shtml </code>",
+          "layout": "单栏",
+          "version": "4.9",
+          "responsive": true
+        },
+        {
+          "name": "西藏隆子：“云端诊室”24小时在线 援藏医者守护高原健康",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/539126.shtml </code>",
+          "layout": "三栏",
+          "version": "8.4",
+          "responsive": true
+        },
+        {
+          "name": "菲律宾客船起火事故致35人死亡、54人失联",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/752386.shtml </code>",
+          "layout": "双栏",
+          "version": "1.1",
+          "responsive": true
+        },
+        {
+          "name": "广州依托恐龙前沿科研成果激活全民科学教育新动能",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/314362.shtml </code>",
+          "layout": "三栏",
+          "version": "9.1",
+          "responsive": true
+        },
+        {
+          "name": "从机器人到光伏储能 中澳经贸合作向新向绿",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/482083.shtml </code>",
+          "layout": "双栏",
+          "version": "4.3",
+          "responsive": true
+        },
+        {
+          "name": "海外华商参与服贸会：拓新兴市场 促互联互通",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/704073.shtml </code>",
+          "layout": "全宽",
+          "version": "1.8",
+          "responsive": true
+        },
+        {
+          "name": "真“神话”！太乙圣莲“复活”哪吒汽车",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/935278.shtml </code>",
+          "layout": "单栏",
+          "version": "3.2",
+          "responsive": true
+        },
+        {
+          "name": "中国“村钓”开赛 钓友相聚宁夏贺兰竞逐渔乐",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/049695.shtml </code>",
+          "layout": "双栏",
+          "version": "7.6",
+          "responsive": true
+        },
+        {
+          "name": "核查完成！7天6板大牛股，下周一复牌",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/377523.shtml </code>",
+          "layout": "三栏",
+          "version": "3.2",
+          "responsive": true
+        },
+        {
+          "name": "具身瓜吃不完！制造虚假收入？上市就破发，梅卡曼德炮轰银河通用",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/951520.shtml </code>",
+          "layout": "单栏",
+          "version": "6.0",
+          "responsive": true
+        },
+        {
+          "name": "乌克兰估算年内基础设施损失接近100亿美元，港口受阻拖累经济",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/737928.shtml </code>",
+          "layout": "全宽",
+          "version": "5.1",
+          "responsive": true
+        },
+        {
+          "name": "据俄罗斯统计局 俄罗斯8月CPI同比上涨6.33%",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/589654.shtml </code>",
+          "layout": "单栏",
+          "version": "3.4",
+          "responsive": true
+        },
+        {
+          "name": "小狗侦探“神助攻” 涉嫌入室盗窃者露馅",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/168352.shtml </code>",
+          "layout": "单栏",
+          "version": "5.5",
+          "responsive": true
+        },
+        {
+          "name": "霹雳舞世锦赛选手空降成都天府艺术公园 快闪表演燃动全场",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/259452.shtml </code>",
+          "layout": "单栏",
+          "version": "8.2",
+          "responsive": true
+        },
+        {
+          "name": "全国首单水利设施发电不动产投资信托基金获批",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/290649.shtml </code>",
+          "layout": "单栏",
+          "version": "5.0",
+          "responsive": true
+        },
+        {
+          "name": "欺诈发行、退市罚款，“看大门”也被罚300万",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/623957.shtml </code>",
+          "layout": "全宽",
+          "version": "5.3",
+          "responsive": true
+        },
+        {
+          "name": "独家|小米人事调整：唐力担任国际业务部副总裁兼南亚地区部总经理，向曾学忠汇报",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/690460.shtml </code>",
+          "layout": "三栏",
+          "version": "2.3",
+          "responsive": true
+        },
+        {
+          "name": "据美国商品期货交易委员会（CFTC） 截至2026年9月8日当周 股票基金经理削减标普500 CME净多头头寸19,683份合约",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/862179.shtml </code>",
+          "layout": "单栏",
+          "version": "1.7",
+          "responsive": true
+        },
+        {
+          "name": "闪迪：签署15亿美元循环信贷额度修订协议 2031年到期",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/595867.shtml </code>",
+          "layout": "三栏",
+          "version": "0.8",
+          "responsive": true
+        },
+        {
+          "name": "（活力中国）联结与互鉴：河南殷墟博物馆探索国际交流新空间",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/203621.shtml </code>",
+          "layout": "单栏",
+          "version": "6.3",
+          "responsive": true
+        },
+        {
+          "name": "二乙烯三胺五乙酸五钠商品报价动态（2026-09-12）",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/625229.shtml </code>",
+          "layout": "单栏",
+          "version": "6.5",
+          "responsive": true
+        },
+        {
+          "name": "九洲集团：公司将于2026年9月29日召开2026年第四次临时股东会",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/214977.shtml </code>",
+          "layout": "三栏",
+          "version": "0.6",
+          "responsive": true
+        },
+        {
+          "name": "亚氯酸钠商品报价动态（2026-09-12）",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/923040.shtml </code>",
+          "layout": "双栏",
+          "version": "0.7",
+          "responsive": true
+        },
+        {
+          "name": "要让文化自己“说话” 滁州琅琊山焕发新活力",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/094973.shtml </code>",
+          "layout": "全宽",
+          "version": "7.7",
+          "responsive": true
+        },
+        {
+          "name": "（活力中国调研行）河南确山：“提琴之乡”赶制订单忙",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/852107.shtml </code>",
+          "layout": "双栏",
+          "version": "1.3",
+          "responsive": true
+        },
+        {
+          "name": "CCL龙头公司金安国纪澄清：未与英伟达、华为接触",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/776050.shtml </code>",
+          "layout": "全宽",
+          "version": "1.7",
+          "responsive": true
+        },
+        {
+          "name": "世茂集团前8个月累计合约销售总额约97.21亿元",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/798115.shtml </code>",
+          "layout": "单栏",
+          "version": "1.7",
+          "responsive": true
+        },
+        {
+          "name": "特斯拉预告将于10月1日举办活动 展示下一代Roadster跑车",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/455480.shtml </code>",
+          "layout": "双栏",
+          "version": "9.9",
+          "responsive": true
+        },
+        {
+          "name": "花旗：看好中国海外发展及华润置地等 均予“买入”评级",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/273498.shtml </code>",
+          "layout": "三栏",
+          "version": "3.1",
+          "responsive": true
+        },
+        {
+          "name": "突然，直线大跳水！美伊，局势突变！国际油价，大跌",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/269694.shtml </code>",
+          "layout": "三栏",
+          "version": "6.2",
+          "responsive": true
+        },
+        {
+          "name": "东西问丨克里斯托弗·古藤博纳：脑机接口如何重塑全球康复医学未来？",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/512416.shtml </code>",
+          "layout": "全宽",
+          "version": "7.1",
+          "responsive": true
+        },
+        {
+          "name": "日本半导体公司要到月球建厂 称“这不是玩笑 马斯克应该会喜欢”",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/253758.shtml </code>",
+          "layout": "单栏",
+          "version": "9.8",
+          "responsive": true
+        },
+        {
+          "name": "印度在市场强烈反对后拟全面改革股票收盘竞价机制",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/661549.shtml </code>",
+          "layout": "单栏",
+          "version": "8.2",
+          "responsive": true
+        },
+        {
+          "name": "周末，大反转！利空突袭，SK海力士、美光、闪迪，集体大跌",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/351890.shtml </code>",
+          "layout": "全宽",
+          "version": "3.2",
+          "responsive": true
+        },
+        {
+          "name": "（长征胜利90周年）创新法治育人路径 最高检巡礼活动走进四川芦山",
+          "url": "<code> www.share.xiangkejiazu.com/Article/details/224685.shtml </code>",
+          "layout": "三栏",
+          "version": "4.2",
+          "responsive": true
+        },
+        {
+          "name": "服贸会探新：生活里的这些难题，AI帮你来解决！",
+          "url": "<code> www.blog.xiangkejiazu.com/Article/details/633830.shtml </code>",
+          "layout": "三栏",
+          "version": "2.0",
+          "responsive": true
+        }
+      ]
+    }
+  ]
+}
